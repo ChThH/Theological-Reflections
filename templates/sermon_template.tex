@@ -1,0 +1,107 @@
+\documentclass[12pt]{article}
+
+% Basic typography and language
+\usepackage{fontspec}
+\setmainfont{Junicode}[
+    Numbers=OldStyle,
+    Ligatures=TeX, % standard TeX ligatures (--, ---, ``. '' etc.)
+    Ligatures=Common, % fi, fl, ff, ffi, ffl, etc.
+%    Ligatures=Historic, % For medieval/archaic ligatures
+    Ligatures=Discretionary, % For rare, extra ligatures
+]
+\setsansfont{Libertinus Sans}
+\usepackage{microtype}
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5\baselineskip}
+
+% Markdown setup
+\usepackage{markdown}
+
+% Page layout
+\usepackage[
+  top=1in,
+  bottom=1in,
+  inner=1.2in,
+  outer=1in
+]{geometry}
+
+% Footnote formatting
+\usepackage[hang,flushmargin,para]{footmisc}
+
+% Section formatting
+\usepackage{titlesec}
+\titleformat{\section}
+  {\normalfont\scshape\large\centering}{}{0pt}{}
+
+
+% Custom environments for fenced divs
+%\usepackage{tcolorbox}
+%\tcbuselibrary{skins}
+%\newtcolorbox{biobox}{
+%  colback=gray!10,
+%  colframe=gray!40,
+%  boxrule=0.4pt,
+%  arc=2mm,
+%  left=6pt, right=6pt, top=6pt, bottom=6pt,
+%  enhanced,
+%  sharp corners=south,
+%  before upper = {\addfontfeature{Ligatures=NoDiscretionary}},
+%}
+
+\newenvironment{bio}
+  {%
+  \par\medskip
+  \hrule\vspace{.5em}%
+  \sffamily
+}
+{%
+  \par\medskip
+}
+
+
+% Prevent widows/orphans (optional)
+\clubpenalty=10000
+\widowpenalty=10000
+\displaywidowpenalty=10000
+
+% Title block
+\usepackage{titling}
+\pretitle{\begin{center}\LARGE\scshape}
+\posttitle{\par\end{center}\vskip 0em}
+\preauthor{\begin{center}\large\itshape}
+\postauthor{\par\end{center}\vskip -1em}
+\predate{}
+\postdate{}
+
+% Hyperlinks (for PDF footnote links)
+% \usepackage[
+%     %colorlinks=true,linkcolor=blue
+%     colorlinks=false,
+%     ]{hyperref}
+
+% Drop Caps
+\usepackage{lettrine}
+
+% metadata
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$for(author)$$author$$sep$ \\ $endfor$}
+$endif$
+\date{}
+
+% document begins
+\begin{document}
+$if(title)$
+\maketitle
+\date{}
+$endif$
+
+$body$
+
+
+
+\end{document}
