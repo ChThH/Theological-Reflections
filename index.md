@@ -4,7 +4,7 @@ title: Theological Reflections
 ---
 
 ## About
-Some reflection, series, and other writings.
+Some reflection, handouts from series, and other writings.
 
 ## Links
 [Reflections](reflections.md)
