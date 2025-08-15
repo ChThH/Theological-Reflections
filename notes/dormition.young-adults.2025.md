@@ -1,6 +1,6 @@
 ---
 id: lipv8n0ufgh8m44wlpehikp
-title: Dormition
+title: '2025'
 desc: ''
 updated: 1754030593234
 created: 1753851491565
@@ -25,3 +25,13 @@ Protection against demons
 she constantly prays for us
 Tie this in into Bathsheba in book of kingdoms
 
+Psalm 39.4 
+“O LORD, make me know my end  
+  and what is the measure of my days;  
+  let me know how fleeting I am!  
+Behold, you have made my days a few handbreadths,  
+  and my lifetime is as nothing before you.  
+Surely all mankind stands as a mere breath! Selah  
+  Surely a man goes about as a shadow!  
+Surely as a breath they are in turmoil;  
+  man heaps up wealth and does not know who will gather!  
