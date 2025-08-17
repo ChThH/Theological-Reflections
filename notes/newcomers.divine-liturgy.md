@@ -1,8 +1,9 @@
 ---
 id: f7g3xuzfxm6k8yocs17qmie
-title: Divine Liturgy
+title: "Divine Liturgy Talk: Newcomers"
+geometry: margin=0.5in
 desc: ''
-updated: 1754296483067
+updated: 1755402237042
 created: 1754271189538
 ---
 
