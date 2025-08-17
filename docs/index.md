@@ -39,9 +39,9 @@ Welcome to my page where I've collected various theological reflections and hand
     <p>Some notes on books I've read.</p>
     <a href="book-notes">Visit</a>
   </div>
+</div>
+---
 
-  ---
-
-  ## Contact
+## Contact
 
 You can reach me at [the Discussion page](https://github.com/ChThH/chthh.github.io/discussions).
