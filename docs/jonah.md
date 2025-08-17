@@ -1,0 +1,13 @@
+---
+layout: page
+title: Jonah
+time: Q1 2025 (Lent)
+---
+Handouts from the Book of Jonah Series.
+
+Title | Notes
+---|---
+[Text](/publish/Series_with_Subdeacon_Methodius/Jonah/jonah-text.pdf) | Text from LEB LES and others
+[Notes](/publish/Series_with_Subdeacon_Methodius/Jonah/Jonah-notes.pdf) | Background notes and observations 
+[Cross References](/publish/Series_with_Subdeacon_Methodius/Jonah/Jonah-Cross-Refereces) | Jonah and other parts of the Bible
+
