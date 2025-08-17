@@ -35,7 +35,7 @@ Welcome to my page where I've collected various theological reflections and hand
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
-    <h2>Book Notes</h3>
+    <h2>Book Notes</h2>
     <p>Some notes on books I've read.</p>
     <a href="book-notes">Visit</a>
   </div>
