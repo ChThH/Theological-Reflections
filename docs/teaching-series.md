@@ -11,13 +11,13 @@ Please links to material for Subdeacon Methodius and Christopher's teaching seri
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
     <h2>Q1: Jonah</h2>
     <p>A series on the Prophecy of Jonah as preparation for Holy Saturday.</p>
-    <a href="jonah.md">Visit</a>
+    <a href="jonah">Visit</a>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
     <h2>Q3: Transfiguration</h2>
     <p>In preparation for that feast.</p>
-    <a href="transfiguration.md">Visit</a>
+    <a href="transfiguration">Visit</a>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
