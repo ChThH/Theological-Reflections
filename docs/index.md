@@ -13,19 +13,19 @@ Welcome to my page where I've collected various theological reflections and hand
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
     <h2>Teaching Series Handouts</h2>
     <p>Handouts and links for teaching series.</p>
-    <a href="teaching-series.md">Visit</a>
+    <a href="teaching-series">Visit</a>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
     <h2>Reflections</h2>
     <p>Short 1-page essays on various feasts of the church.</p>
-    <a href="reflections.md">Visit</a>
+    <a href="reflections">Visit</a>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
     <h2>Other Talks</h2>
     <p>Other Talks I've given.</p>
-    <a href="other.md">Visit</a>
+    <a href="other">Visit</a>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
@@ -37,7 +37,7 @@ Welcome to my page where I've collected various theological reflections and hand
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
     <h2>Book Notes</h3>
     <p>Some notes on books I've read.</p>
-    <a href="book-notes.md">Visit</a>
+    <a href="book-notes">Visit</a>
   </div>
 
   ---
