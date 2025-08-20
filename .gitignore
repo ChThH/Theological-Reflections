@@ -8,3 +8,6 @@ whisperx-env/
 working_folder/
 .dylib
 notes/dormition.young-adults.speakers-outline.md
+**.DS_Store
+docs/publish/.DS_Store
+.gitignore
