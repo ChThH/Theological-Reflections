@@ -11,34 +11,30 @@ Welcome to my page where I've collected various theological reflections and hand
 <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
-    <h2>Teaching Series Handouts</h2>
+    <h2><a href="teaching-series">Teaching Series</a></h2>
     <p>Handouts and links for teaching series.</p>
-    <a href="teaching-series">Visit</a>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
-    <h2>Reflections</h2>
+    <h2><a href="reflections">Reflections</a></h2>
     <p>Short 1-page essays on various feasts of the church.</p>
-    <a href="reflections">Visit</a>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
-    <h2>Other Talks</h2>
+    <h2><a href="other">Other Talks</a></h2>
     <p>Other Talks I've given.</p>
-    <a href="other">Visit</a>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
-    <h2>It is Time for God to Act: Divine Liturgy Series</h2>
+    <h2><a href="https://chthh.github.io/divine_liturgy_series/">It is Time for God to Act: Divine Liturgy Series</a></h2>
     <p>A series primarily geared for seekers and catechumens on the Divine Liturgy.</p>
-    <a href="https://chthh.github.io/divine_liturgy_series/">Visit</a>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
-    <h2>Book Notes</h2>
+    <h2><a href="book-notes">Book Notes</a></h2>
     <p>Some notes on books I've read.</p>
-    <a href="book-notes">Visit</a>
   </div>
+  
 </div>
 ---
 

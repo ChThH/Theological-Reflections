@@ -9,22 +9,21 @@ Please links to material for Subdeacon Methodius and Christopher's teaching seri
 <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
-    <h2>Q1: Jonah</h2>
+    <h2><a href="jonah">Q1: Jonah</a></h2>
     <p>A series on the Prophecy of Jonah as preparation for Holy Saturday.</p>
-    <a href="jonah">Visit</a>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
-    <h2>Q3: Transfiguration</h2>
+    <h2><a href="transfiguration">Q3: Transfiguration</a></h2>
     <p>In preparation for that feast.</p>
-    <a href="transfiguration">Visit</a>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
     <h2>Q4 Upcoming: Ruth</h2>
     <p>A series on the Book of Ruth in preparation for Nativity and the Genealogy Sunday.</p>
-    <!-- <a href="ruth.md">Visit</a> -->
   </div>
+
+</div>
 
 <!--
 ## upcoming 
@@ -32,7 +31,7 @@ Please links to material for Subdeacon Methodius and Christopher's teaching seri
 2026
   Q1 Old Testament References in the Canon of Repentance 
   Q2 Ascension
-  Q3 Dormition
+  Q3 Dormition of the Theotokos
   Q4 Entrance of the Theotokos
 2027
   Q1 Annunciation 
