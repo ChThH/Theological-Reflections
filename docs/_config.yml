@@ -14,5 +14,8 @@ header_pages:
   - index.md
   - teaching-series.md
   - reflections.md
+include:
+  - "*.md"
+  - "publish/**/*.md"
 
 

@@ -10,4 +10,13 @@ working_folder/
 notes/dormition.young-adults.speakers-outline.md
 **.DS_Store
 docs/publish/.DS_Store
-.gitignore
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler
+.bundle/
+vendor/
