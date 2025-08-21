@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Theological Reflections
+title: Home
 ---
 
 Welcome to my page where I've collected various theological reflections and handouts for my teaching series with Subdeacon Loren. 
@@ -34,7 +34,7 @@ Welcome to my page where I've collected various theological reflections and hand
     <h2><a href="book-notes">Book Notes</a></h2>
     <p>Some notes on books I've read.</p>
   </div>
-  
+
 </div>
 ---
 
