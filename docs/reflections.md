@@ -29,9 +29,9 @@ Please find various reflections I've written for feasts for Holy Resurrection Or
     {%- assign capitalized_words = capitalized_words | append: " " | append: capitalized_word -%}
   {%- endif -%}
 {%- endfor -%}
-{%- assign md_file = site.static_files | where: "extname", ".md" | where_exp: "mdfile", "mdfile.basename == file.basename" | first -%}
+{%- assign md_file = site.pages | where_exp: "page", "page.name contains file.basename" | first -%}
 {%- if md_file %}
-| [{{ capitalized_words }}]({{ md_file.path | relative_url }}) | {{ year }} | [Web]({{ md_file.path | relative_url }}) \| [PDF]({{ file.path | relative_url }}) |
+| [{{ capitalized_words }}]({{ md_file.url | relative_url }}) | {{ year }} | [Web]({{ md_file.url | relative_url }}) \| [PDF]({{ file.path | relative_url }}) |
 {%- else %}
 | {{ capitalized_words }} | {{ year }} | [PDF Only]({{ file.path | relative_url }}) |
 {%- endif -%}
