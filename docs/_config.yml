@@ -10,12 +10,16 @@ minima:
   #email: "chthh@example.com"
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-optional-front-matter
 header_pages: 
   - index.md
   - teaching-series.md
   - reflections.md
 include:
-  - "*.md"
-  - "publish/**/*.md"
-
-
+  - "*/*.md"
+  - "/publish/**/*.md"
+collections:
+  articles_on_feasts:
+    output: true
+    permalink: /Articles-on-Feasts/:name/
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
