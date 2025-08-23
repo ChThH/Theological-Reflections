@@ -1,6 +1,6 @@
 ---
 id: ls5wr38fhxnqiumt77cypj4
-title: '2025'
+title: 'Transfiguration and Metamorphosis'
 desc: ''
 updated: 1753893118918
 created: 1753727034417
