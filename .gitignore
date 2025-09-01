@@ -9,6 +9,7 @@ working_folder/
 .dylib
 notes/dormition.young-adults.speakers-outline.md
 **.DS_Store
+.DS_Store
 docs/publish/.DS_Store
 
 # Jekyll
@@ -22,3 +23,4 @@ Gemfile.lock
 # Bundler
 .bundle/
 vendor/
+

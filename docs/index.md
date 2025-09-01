@@ -22,7 +22,7 @@ Welcome to my page where I've collected various theological reflections and hand
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
     <h2><a href="other">Other Talks</a></h2>
-    <p>Other Talks I've given.</p>
+    <p>Other talks I've given.</p>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
