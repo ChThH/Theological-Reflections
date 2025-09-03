@@ -3,7 +3,7 @@ layout: page
 title: Teaching Series
 ---
 
-Please links to material for Subdeacon Methodius and Christopher's teaching series at Holy Resurrection Orthodox Church. About four series are done each year and each series is two (or three) weeks long, consisting of an informal discussion between the two with audience participation. (A bit like a live podcast with two hosts.)
+This page has links to material for Subdeacon Methodius and Christopher's teaching series at Holy Resurrection Orthodox Church. About four series are done each year and each series is two (or three) weeks long, consisting of an informal discussion between the two with audience participation. (A bit like a live podcast with two hosts.)
 
 ## 2025
 <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
