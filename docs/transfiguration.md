@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jonah
+title: Transfiguration
 time: Q3 2025 (Transfiguration)
 ---
 Handouts from the Book of Transfiguration Series.
