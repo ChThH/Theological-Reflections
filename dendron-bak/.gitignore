@@ -1,0 +1,26 @@
+node_modules
+.dendron.*
+build
+seeds
+.next
+pods/service-connections
+whisperx-env/
+working_folder/
+.dylib
+notes/dormition.young-adults.speakers-outline.md
+**.DS_Store
+.DS_Store
+docs/publish/.DS_Store
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+
+
+# Bundler
+.bundle/
+vendor/
+

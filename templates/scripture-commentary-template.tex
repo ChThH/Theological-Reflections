@@ -25,6 +25,11 @@
 \usepackage{polyglossia}                % Language support
 \setdefaultlanguage{english}
 
+% Drop Caps
+\usepackage{lettrine}
+% \newfontface\initialfont{Libertinus Serif Initials}    %  if ever need a new font for initials
+% \renewcommand{\LettrineFontHook}{\initialfont}
+
 % -----------------------
 % Layout
 % -----------------------
@@ -42,6 +47,8 @@
 % -----------------------
 % Section headings (KOMA style)
 % -----------------------
+\setcounter{secnumdepth}{0}                            % unnumbered sections
+
 \setkomafont{section}{\Large\bfseries\centering}        % # Heading style
 \setkomafont{subsection}{\large\bfseries\centering}    % ## Heading style
 \setkomafont{subsubsection}{\normalsize\bfseries}      % ### Heading style
@@ -79,21 +86,33 @@
 % Footnotes
 % -----------------------
 \renewcommand{\footnotesize}{\sffamily\scriptsize}       % Footnotes match commentary font
-\usepackage[hang,flushmargin,para]{footmisc}
+\usepackage[hang,flushmargin]{footmisc}
+% para in line paragraph (not one per line) additional option if needed
+\usepackage{alphalph}                          % extend letters beyond z
+\renewcommand{\thefootnote}{\alphalph{\value{footnote}}}
 
 % -----------------------
 % Title / metadata
 % -----------------------
 % Using KOMA built-in title support; no titling package needed
 \title{$title$}      % Pandoc title
-\author{}            % Pandoc author (optional)
-\date{}              % Pandoc date (optional)
+%\author{}            % Pandoc author (optional)
+%\date{}              % Pandoc date (optional)
 
 % -----------------------
 % Begin document
 % -----------------------
 \begin{document}
-\maketitle             % Title appears at top of page 1
+\begin{center}
+  $if(title)$
+    {\LARGE\sffamily\bfseries $title$\par}
+  $endif$
+  \vspace{1em}
+  $if(subtitle)$
+    {\large $subtitle$\par}
+  $endif$
+\end{center}         % Title appears at top of page 1
+
 \thispagestyle{empty}  % No page number on title
 
 $body$                 % Pandoc inserts your Markdown content here
