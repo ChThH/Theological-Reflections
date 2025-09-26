@@ -1,0 +1,120 @@
+% ---------------------
+% Scripture/Notes Template
+% ----------------------
+
+\documentclass[
+  fontsize=12pt,       % Base font size for the document
+  paper=letter,        % Letter paper size for church printing
+  headings=normal,     % Default KOMA heading style (can also be small/big)
+  parskip=half,        % Space between paragraphs (half a baseline)
+  twoside=false,       % Single-sided layout (no mirrored margins)
+  titlepage=false      % Title appears at top of first page, not on its own page
+]{scrbook}
+
+% -----------------------
+% Basic fonts
+% -----------------------
+\usepackage{fontspec}
+\setmainfont{Libertinus Serif}[         % Serif font for Scripture
+  Ligatures=TeX,
+  Ligatures=Common,
+  Numbers=OldStyle
+]
+\setsansfont{Libertinus Sans}           % Sans-serif font for commentary
+\usepackage{microtype}                  % Better typography
+\usepackage{polyglossia}                % Language support
+\setdefaultlanguage{english}
+
+% Drop Caps
+\usepackage{lettrine}
+% \newfontface\initialfont{Libertinus Serif Initials}    %  if ever need a new font for initials
+% \renewcommand{\LettrineFontHook}{\initialfont}
+
+% -----------------------
+% Layout
+% -----------------------
+\usepackage[margin=1in]{geometry}       % 1-inch margins all around
+\setlength{\parindent}{0pt}             % No paragraph indentation
+\setlength{\parskip}{0.5\baselineskip}  % Space between paragraphs
+
+% -----------------------
+% Widows and orphans
+% -----------------------
+\clubpenalty=10000
+\widowpenalty=10000
+\displaywidowpenalty=10000
+
+% -----------------------
+% Section headings (KOMA style)
+% -----------------------
+\setcounter{secnumdepth}{0}                            % unnumbered sections
+
+\setkomafont{section}{\Large\bfseries\centering}        % # Heading style
+\setkomafont{subsection}{\large\bfseries\centering}    % ## Heading style
+\setkomafont{subsubsection}{\normalsize\bfseries}      % ### Heading style
+
+\RedeclareSectionCommand[beforeskip=4ex plus 1ex minus .2ex,
+                         afterskip=2.5ex plus .2ex]{section}       % # spacing
+\RedeclareSectionCommand[beforeskip=4ex plus 1ex minus .2ex,
+                         afterskip=2.5ex plus .2ex]{subsection}    % ## spacing
+\RedeclareSectionCommand[beforeskip=3.5ex plus .5ex minus .2ex,
+                         afterskip=2ex plus .2ex]{subsubsection}   % ### spacing
+
+% -----------------------
+% Special environments
+% -----------------------
+\newenvironment{scripture}{            % Scripture blocks
+  \begingroup
+  \rmfamily                           % Serif font (Libertinus Serif)
+  \setlength{\parskip}{0.5\baselineskip} % Space between paragraphs
+}{
+  \par\endgroup
+}
+
+\newenvironment{commentary}{           % Commentary blocks
+  \par\vspace{0.5\baselineskip}        % Small space above
+  \hrule height 0.4pt                   % Thin horizontal line
+  \vspace{0.5\baselineskip}            % Small space below the line
+  \begingroup
+  \sffamily                            % Sans-serif font (Libertinus Sans)
+}{
+  \endgroup
+  \vspace{0.5\baselineskip}            % Optional space after commentary
+}
+
+% -----------------------
+% Footnotes
+% -----------------------
+\renewcommand{\footnotesize}{\sffamily\scriptsize}       % Footnotes match commentary font
+\usepackage[hang,flushmargin]{footmisc}
+% para in line paragraph (not one per line) additional option if needed
+\usepackage{alphalph}                          % extend letters beyond z
+\renewcommand{\thefootnote}{\alphalph{\value{footnote}}}
+
+% -----------------------
+% Title / metadata
+% -----------------------
+% Using KOMA built-in title support; no titling package needed
+\title{$title$}      % Pandoc title
+%\author{}            % Pandoc author (optional)
+%\date{}              % Pandoc date (optional)
+
+% -----------------------
+% Begin document
+% -----------------------
+\begin{document}
+\begin{center}
+  $if(title)$
+    {\LARGE\sffamily\bfseries $title$\par}
+  $endif$
+  \vspace{1em}
+  $if(subtitle)$
+    {\large $subtitle$\par}
+  $endif$
+\end{center}         % Title appears at top of page 1
+
+\thispagestyle{empty}  % No page number on title
+
+$body$                 % Pandoc inserts your Markdown content here
+
+\end{document}
