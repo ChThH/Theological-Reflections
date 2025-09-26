@@ -1,4 +1,18 @@
-# The Scroll whereon the Finger of God Inscribed His Word.
+---
+title: The Scroll whereon the Finger of God Inscribed His Word
+desc: talk given for men's group
+Created: 2025-09-26 01:04:27
+Updated: 2025-09-26 01:22:03
+mainfont: Libertinus Serif 
+fontsize: 12pt
+geometry: margin=0.75in
+header-includes: |
+     \usepackage{titling}
+     \pretitle{\begin{center}\LARGE\vskip -2em}
+     \posttitle{\par\end{center}\vskip -5em}
+     \preauthor{\begin{center}\large\itshape}
+     \postauthor{\par\end{center}\vskip -6em}
+---
 
 Thank you Father and Brothers for inviting me to speak this evening. When Phil asked me to give this talk two topics came into my head. Ultimately though, I decided against the title _Exploring the Dog-Headed Icon of St Christopher_ as it would probably appeal to too small a niche, especially for those not named Christopher.
 
