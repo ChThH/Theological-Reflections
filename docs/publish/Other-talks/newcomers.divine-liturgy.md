@@ -1,12 +1,11 @@
 ---
-id: f7g3xuzfxm6k8yocs17qmie
-title: "Introdouction to the Divine Liturgy for Newcomers"
+title: "Introduction to the Divine Liturgy for Newcomers"
+created: 2025/09/13 21:17:06
+updated: 2025/10/20 14:50:30
 mainfont: Libertinus Serif 
 fontsize: 12pt
 geometry: margin=0.75in
 desc: ''
-updated: 1756749422341
-created: 1754271189538
 header-includes: |
      \usepackage{titling}
      \pretitle{\begin{center}\LARGE\vskip -2em}

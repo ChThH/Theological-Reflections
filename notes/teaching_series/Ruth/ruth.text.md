@@ -1,9 +1,8 @@
 ---
-id: j8cd6e6y61ll8r14yzirovo
 title: The Text of the Book of Ruth from Hebrew and Greek
 desc: 'The text of Ruth from MT and LXX for the handout'
-updated: 1754199562088
-created: 1754031402497
+created: 2025/09/13 21:25:00
+updated: 2025/10/16 00:31:24
 numbersections: false
 author: Christopher Hall
 ---

@@ -1,8 +1,7 @@
 ---
-id: wkl1wakbkucbvmxi8w8w7wz
 title: Speakers Outline
 desc: ''
-updated: 1754894100154
+updated: 2025/10/20 14:49:22
 created: 1754893853103
 ---
 Created by GPT after giving it my talk:

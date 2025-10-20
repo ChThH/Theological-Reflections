@@ -1,10 +1,9 @@
 ---
-id: t756z271owpuois304zqgm7
 title: The Dormition and our Falling Asleep
 subtitle: Let me know how fleeting I am
 desc: ''
-updated: 1756748672403
-created: 1754880200623
+created: 2025/09/13 21:17:06
+updated: 2025/10/20 14:51:20
 # documentclass: scrartcl
 mainfont: Libertinus Serif 
 fontsize: 12pt

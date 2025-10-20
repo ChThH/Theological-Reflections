@@ -72,13 +72,15 @@
 }
 
 \newenvironment{commentary}{           % Commentary blocks
-  \par\vspace{0.5\baselineskip}        % Small space above
-  \hrule height 0.4pt                   % Thin horizontal line
-  \vspace{0.5\baselineskip}            % Small space below the line
+  \par\vspace{0.7\baselineskip}        % Small space above
+  \hrule height 0.2pt                   % Thin horizontal line
+  %\vspace{0.2\baselineskip}            % Small space below the line
   \begingroup
-  \sffamily                            % Sans-serif font (Libertinus Sans)
+  \sffamily\small                            % Sans-serif font (Libertinus Sans)
 }{
   \endgroup
+  \vspace{0.2\baselineskip} 
+  \hrule height 0.4pt  
   \vspace{0.5\baselineskip}            % Optional space after commentary
 }
 
