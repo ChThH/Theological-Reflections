@@ -1,7 +1,7 @@
 ---  
 title: The Naming of Ezras *  
 created: 2021-10-20 00:42:34  
-updated: 2025-10-21 01:26:37
+updated: 2025-10-21 01:29:32
 type: doggerel  
 related:  <null>
 tags: doggerel, ezra, naming, traditions  
@@ -42,5 +42,5 @@ But above and beyond there’s still one name left over,
 The name that no human research can discover —  
 	What’s it? you ask: Ne’er mind, eh.  
   
-* With apologies to the greatest poet of the 20th century. I am a hollow man, headpiece filled with straw. Alas!  
+\* With apologies to the greatest poet of the 20th century. I am a hollow man, headpiece filled with straw. Alas!  
   
