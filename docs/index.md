@@ -21,13 +21,18 @@ Welcome to my page where I've collected various theological reflections and hand
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
-    <h2><a href="other">Other Talks</a></h2>
+    <h2><a href="Talks">Talks</a></h2>
     <p>Other talks I've given.</p>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
     <h2><a href="https://chthh.github.io/divine_liturgy_series/">It is Time for God to Act: Divine Liturgy Series</a></h2>
     <p>A series primarily geared for seekers and catechumens on the Divine Liturgy.</p>
+  </div>
+
+  <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
+    <h2><a href="poetry">Doggeral</a></h2>
+    <p>Some theological-adjacent doggeral I've written.</p>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">

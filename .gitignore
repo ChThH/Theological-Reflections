@@ -24,3 +24,5 @@ Gemfile.lock
 .bundle/
 vendor/
 
+# Github token
+github-token.txt
