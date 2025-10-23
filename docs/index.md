@@ -30,15 +30,6 @@ Welcome to my page where I've collected various theological reflections and hand
     <p>A series primarily geared for seekers and catechumens on the Divine Liturgy.</p>
   </div>
 
-  <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
-    <h2><a href="poetry">Doggeral</a></h2>
-    <p>Some theological-adjacent doggeral I've written.</p>
-  </div>
-
-  <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
-    <h2><a href="book-notes">Book Notes</a></h2>
-    <p>Some notes on books I've read.</p>
-  </div>
 
 </div>
 ---

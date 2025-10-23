@@ -1,0 +1,4824 @@
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.8)  22 OCT 2025 19:59
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**combined.tex
+(./combined.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count192
+\c@section=\count193
+\c@subsection=\count194
+\c@subsubsection=\count195
+\c@paragraph=\count196
+\c@subparagraph=\count197
+\c@figure=\count198
+\c@table=\count199
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen142
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen143
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count266
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count267
+\leftroot@=\count268
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count269
+\DOTSCASE@=\count270
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen144
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count271
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count272
+\dotsspace@=\muskip17
+\c@parentequation=\count273
+\dspbrk@lvl=\count274
+\tag@help=\toks18
+\row@=\count275
+\column@=\count276
+\maxfields@=\count277
+\andhelp@=\toks19
+\eqnshift@=\dimen145
+\alignsep@=\dimen146
+\tagshift@=\dimen147
+\tagwidth@=\dimen148
+\totwidth@=\dimen149
+\lineht@=\dimen150
+\@envbody=\toks20
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/unicode-math/unicode-math.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-01-18 L3 programming layer (loader) 
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
+\g__graphics_track_int=\count278
+\l__pdf_internal_box=\box54
+\g__pdf_backend_annotation_int=\count279
+\g__pdf_backend_link_int=\count280
+))
+Package: unicode-math 2023/08/13 v0.8r Unicode maths in XeLaTeX and LuaLaTeX
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.s
+ty
+Package: unicode-math-xetex 2023/08/13 v0.8r Unicode maths in XeLaTeX and LuaLa
+TeX
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count281
+\l__fontspec_language_int=\count282
+\l__fontspec_strnum_int=\count283
+\l__fontspec_tmp_int=\count284
+\l__fontspec_tmpa_int=\count285
+\l__fontspec_tmpb_int=\count286
+\l__fontspec_tmpc_int=\count287
+\l__fontspec_em_int=\count288
+\l__fontspec_emdef_int=\count289
+\l__fontspec_strong_int=\count290
+\l__fontspec_strongdef_int=\count291
+\l__fontspec_tmpa_dim=\dimen151
+\l__fontspec_tmpb_dim=\dimen152
+\l__fontspec_tmpc_dim=\dimen153
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\g__um_fam_int=\count292
+\g__um_fonts_used_int=\count293
+\l__um_primecount_int=\count294
+\g__um_primekern_muskip=\muskip18
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/unicode-math/unicode-math-table.t
+ex))) (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2025/02/11 v3.2a Micro-typographical refinements (RS)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count295
+)
+\MT@toks=\toks23
+\MT@tempbox=\box55
+\MT@count=\count296
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
+LaTeX Info: Redefining \leftprotrusion on input line 1088.
+\MT@prot@toks=\toks24
+LaTeX Info: Redefining \rightprotrusion on input line 1107.
+LaTeX Info: Redefining \textls on input line 1449.
+\MT@outer@kern=\dimen154
+LaTeX Info: Redefining \microtypecontext on input line 2053.
+LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
+\MT@listname@count=\count297
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype-xetex.def
+File: microtype-xetex.def 2025/02/11 v3.2a Definitions specific to xetex (RS)
+LaTeX Info: Redefining \lsstyle on input line 443.
+LaTeX Info: Redefining \lslig on input line 451.
+\MT@outer@space=\skip54
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2025/02/11 v3.2a microtype main configuration file (RS)
+)
+LaTeX Info: Redefining \microtypesetup on input line 3065.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
+\LTleft=\skip55
+\LTright=\skip56
+\LTpre=\skip57
+\LTpost=\skip58
+\LTchunksize=\count298
+\LTcapwidth=\dimen155
+\LT@head=\box56
+\LT@firsthead=\box57
+\LT@foot=\box58
+\LT@lastfoot=\box59
+\LT@gbox=\box60
+\LT@cols=\count299
+\LT@rows=\count300
+\c@LT@tables=\count301
+\c@LT@chunks=\count302
+\LT@p@ftn=\toks25
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen156
+\lightrulewidth=\dimen157
+\cmidrulewidth=\dimen158
+\belowrulesep=\dimen159
+\belowbottomsep=\dimen160
+\aboverulesep=\dimen161
+\abovetopsep=\dimen162
+\cmidrulesep=\dimen163
+\cmidrulekern=\dimen164
+\defaultaddspace=\dimen165
+\@cmidla=\count303
+\@cmidlb=\count304
+\@aboverulesep=\dimen166
+\@belowrulesep=\dimen167
+\@thisruleclass=\count305
+\@lastruleclass=\count306
+\@thisrulewidth=\dimen168
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/array.sty
+Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
+\col@sep=\dimen169
+\ar@mcellbox=\box61
+\extrarowheight=\dimen170
+\NC@list=\toks26
+\extratabsurround=\skip59
+\backup@length=\skip60
+\ar@cellbox=\box62
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count307
+\calc@Bcount=\count308
+\calc@Adimen=\dimen171
+\calc@Bdimen=\dimen172
+\calc@Askip=\skip61
+\calc@Bskip=\skip62
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count309
+\calc@Cskip=\skip63
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/footnotehyper/footnotehyper.sty
+Package: footnotehyper 2021/08/13 v1.1e hyperref aware footnote.sty (JFB)
+\FNH@notes=\box63
+\FNH@width=\dimen173
+\FNH@toks=\toks27
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/soul/soul.sty
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/soul/soul-ori.sty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks28
+\SOUL@lasttoken=\toks29
+\SOUL@syllable=\toks30
+\SOUL@cmds=\toks31
+\SOUL@buffer=\toks32
+\SOUL@token=\toks33
+\SOUL@syllgoal=\dimen174
+\SOUL@syllwidth=\dimen175
+\SOUL@charkern=\dimen176
+\SOUL@hyphkern=\dimen177
+\SOUL@dimen=\dimen178
+\SOUL@dimeni=\dimen179
+\SOUL@minus=\count310
+\SOUL@comma=\count311
+\SOUL@apo=\count312
+\SOUL@grave=\count313
+\SOUL@spaceskip=\skip64
+\SOUL@ttwidth=\dimen180
+\SOUL@uldp=\dimen181
+\SOUL@ulht=\dimen182
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count314
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen183
+\Hy@linkcounter=\count315
+\Hy@pagecounter=\count316
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count317
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4040.
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count318
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip19
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen184
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count319
+\Field@Width=\dimen185
+\Fld@charsize=\dimen186
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count320
+\c@Item=\count321
+\c@Hfootnote=\count322
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2024-11-05 v7.01l Hyperref driver for XeTeX
+\pdfm@box=\box64
+\c@Hy@AnnotLevel=\count323
+\HyField@AnnotCount=\count324
+\Fld@listcount=\count325
+\c@bookmark@seq@number=\count326
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip65
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/bookmark/bkm-dvipdfm.def
+File: bkm-dvipdfm.def 2023-12-10 v1.31 bookmark driver for dvipdfm (HO)
+\BKM@id=\count327
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/xurl/xurl.sty
+Package: xurl 2022/01/09 v 0.10 modify URL breaks
+) (./combined.aux)
+\openout1 = `combined.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 75.
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'latinmodern-math.otf(0)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
+allCapsFont={},Script=Math,BoldFont={latinmodern-math.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:scri
+pt=math;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:scri
+pt=math;language=dflt;"
+
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 75.
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'latinmodern-math.otf(1)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
+allCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmode
+rn-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScri
+ptScript}},BoldFont={latinmodern-math.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <8.5->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:s
+cript=math;language=dflt;"<6-8.5>s*[0.9999964596882403]"[latinmodern-math.otf]/
+OT:script=math;language=dflt;+ssty=0;"<-6>s*[0.9999964596882403]"[latinmodern-m
+ath.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.9999964596882403]"[latinmodern-math.otf]/OT:scri
+pt=math;language=dflt;"
+
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 75.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 75.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input
+ line 75.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 75.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on inpu
+t line 75.
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 1.000096459334209.
+
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 1.000096459334209.
+
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 1.000096459334209.
+
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 1.000096459334209.
+
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 1.000096459334209.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'latinmodern-math.otf(2)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
+allCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmode
+rn-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScri
+ptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=1.0001,FontAdjustment={\f
+ontdimen
+(fontspec)             8\font =6.77pt\relax \fontdimen 9\font =3.94pt\relax
+(fontspec)             \fontdimen 10\font =4.44pt\relax \fontdimen 11\font
+(fontspec)             =6.86pt\relax \fontdimen 12\font =3.45pt\relax
+(fontspec)             \fontdimen 13\font =3.63pt\relax \fontdimen 14\font
+(fontspec)             =3.63pt\relax \fontdimen 15\font =2.89pt\relax
+(fontspec)             \fontdimen 16\font =2.47pt\relax \fontdimen 17\font
+(fontspec)             =2.47pt\relax \fontdimen 18\font =2.5pt\relax
+(fontspec)             \fontdimen 19\font =2.0pt\relax \fontdimen 22\font
+(fontspec)             =2.5pt\relax \fontdimen 20\font =0pt\relax \fontdimen
+(fontspec)             21\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <8.5->s*[1.000096459334209]"[latinmodern-math.otf]/OT:sc
+ript=math;language=dflt;"<6-8.5>s*[1.000096459334209]"[latinmodern-math.otf]/OT
+:script=math;language=dflt;+ssty=0;"<-6>s*[1.000096459334209]"[latinmodern-math
+.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1.000096459334209]"[latinmodern-math.otf]/OT:scrip
+t=math;language=dflt;"
+
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 75.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
+t line 75.
+LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 75.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on inpu
+t line 75.
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 0.9998964600422715.
+
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 0.9998964600422715.
+
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 0.9998964600422715.
+
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 0.9998964600422715.
+
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 0.9999964596882403.
+
+
+Package fontspec Info: 
+(fontspec)             latinmodern-math scale = 0.9998964600422715.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'latinmodern-math.otf(3)' created for font
+(fontspec)             'latinmodern-math.otf' with options
+(fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
+allCapsFont={},Script=Math,SizeFeatures={{Size=8.5-},{Size=6-8.5,Font=latinmode
+rn-math.otf,Style=MathScript},{Size=-6,Font=latinmodern-math.otf,Style=MathScri
+ptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=0.9999,FontAdjustment={\f
+ontdimen
+(fontspec)             8\font =0.4pt\relax \fontdimen 9\font =2.0pt\relax
+(fontspec)             \fontdimen 10\font =1.67pt\relax \fontdimen 11\font
+(fontspec)             =1.11pt\relax \fontdimen 12\font =6.0pt\relax
+(fontspec)             \fontdimen 13\font =0pt\relax }].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <8.5->s*[0.9998964600422715]"[latinmodern-math.otf]/OT:s
+cript=math;language=dflt;"<6-8.5>s*[0.9998964600422715]"[latinmodern-math.otf]/
+OT:script=math;language=dflt;+ssty=0;"<-6>s*[0.9998964600422715]"[latinmodern-m
+ath.otf]/OT:script=math;language=dflt;+ssty=1;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.9998964600422715]"[latinmodern-math.otf]/OT:scri
+pt=math;language=dflt;"
+
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 7
+5.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on inpu
+t line 75.
+LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 75.
+
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on inpu
+t line 75.
+LaTeX Info: Redefining \microtypecontext on input line 75.
+Package microtype Info: Applying patch `item' on input line 75.
+Package microtype Info: Applying patch `toc' on input line 75.
+Package microtype Info: Applying patch `eqnum' on input line 75.
+Package microtype Info: Applying patch `footnote' on input line 75.
+Package microtype Info: Applying patch `verbatim' on input line 75.
+LaTeX Info: Redefining \microtypesetup on input line 75.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using protrusion set `basicmath'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
+File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Mod
+ern Roman (RS)
+)
+Package hyperref Info: Link coloring OFF on input line 75.
+
+
+[1
+
+]
+
+[2]
+! Undefined control sequence.
+l.195 \RL
+         {''}Holy, holy, holy is the LORD of hosts;
+? q
+OK, entering \batchmode...
+! Undefined control sequence.
+l.200 ...se was filled with smoke. And I said: \RL
+                                                  {''}Woe is
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.207 said: \RL
+               {''}Behold, this has touched your lips; your guilt is taken
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.210 ...I heard the voice of the Lord saying, \RL
+                                                  {''}Whom shall I send, and
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.211 who will go for us?'' Then I said, \RL
+                                            {''}Here I am! Send me.''
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.239 ... not endure the order that was given, \RL
+                                                  {''}If even
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.241 ...ifying was the sight that Moses said, \RL
+                                                  {''}I tremble with fear.''
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [3]
+! Undefined control sequence.
+l.252 ...k the earth, but now he has promised, \RL
+                                                  {''}Yet once more I will
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.253 ... but also the heavens.'' This phrase, \RL
+                                                  {''}Yet
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [4]
+
+ [5]
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 390.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 390.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3
+90.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 10.00092pt on input line 390.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.00064pt on input line 390.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.00046pt on input line 390.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 9.99893pt on input line 390.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 6.99925pt on input line 390.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 390.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 390
+.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 390
+.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 392.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 392.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 8.00073pt on input line 392.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 6.00055pt on input line 392.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 7.99915pt on input line 392.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 5.99936pt on input line 392.
+
+
+ [6]
+! Undefined control sequence.
+l.440 \RL
+         {''}Holy, holy, holy is the LORD of hosts;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.445 ...se was filled with smoke. And I said: \RL
+                                                  {''}Woe is
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.452 said: \RL
+               {''}Behold, this has touched your lips; your guilt is taken
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.455 ...I heard the voice of the Lord saying, \RL
+                                                  {''}Whom shall I send, and
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.456 who will go for us?'' Then I said, \RL
+                                            {''}Here I am! Send me.'' And he
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.457 said, \RL
+               {''}Go, and say to this people:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.459 \RL
+         {``\,'}Keep on hearing, but do not understand;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.461 keep on seeing, but do not perceive.\RL
+                                             {'}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.469 ...s to obtain the grace of God; that no \RL
+                                                  {''}root of
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [7]
+! Undefined control sequence.
+l.479 ... not endure the order that was given, \RL
+                                                  {''}If even
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.481 ...ifying was the sight that Moses said, \RL
+                                                  {''}I tremble with fear.''
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.492 ...k the earth, but now he has promised, \RL
+                                                  {''}Yet once more I will
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.493 ... but also the heavens.'' This phrase, \RL
+                                                  {''}Yet
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.502 \RL
+         {''}But when the king came in to look at the guests, he saw there a
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.503 ... wedding garment. And he said to him, \RL
+                                                  {'}Friend, how
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.504 ...get in here without a wedding garment?\RL
+                                                  {'} And he was
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.519 Spirit on the Lord\RL
+                           {'}s day, and I heard behind me a loud voice like a
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [8]
+
+ [9]
+
+ [10]
+
+ [11]
+
+ [12]
+
+ [13]
+
+ [14]
+
+ [15]
+
+ [16]
+
+ [17]
+! Undefined control sequence.
+l.1151 his servants, saying, \RL
+                                {''}I will encamp at this certain place,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1155 \RL
+          {''}Take care not to pass by this place, because Syria is hidden
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1160 ...alled his servants and said to them, \RL
+                                                  {''}Will you not tell me who
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1162 \RL
+          {''}No one, my lord O king, for Elisha the prophet in Israel tells
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1164 your bedroom.'' And he said, \RL
+                                       {''}Go, see where this man is, and after
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1166 \RL
+          {''}Behold, he is in Dothan.'' And he sent there horse and chariot
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1171 lad said to him, \RL
+                           {''}O master! What shall we do?'' And Elisha said,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1172 \RL
+          {''}Do not be afraid, for those who are with us are more than those
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1173 ... them.'' And Elisha prayed and said, \RL
+                                                  {''}O Lord, open the
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1177 Elisha prayed to the Lord and said, \RL
+                                              {''}Do strike this nation with
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1179 Elisha. And Elisha said to them, \RL
+                                           {''}This is not the city, and this
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [18]
+! Undefined control sequence.
+l.1184 \RL
+          {''}O Lord, do open their eyes, and let them see.'' And the Lord
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1186 ...ng of Israel said, when he saw them, \RL
+                                                  {''}Father,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1187 striking shall I strike?'' And he said, \RL
+                                                  {''}You shall not strike; if
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [19]
+! Undefined control sequence.
+l.1256 ...itizen and each his brother, saying, \RL
+                                                  {''}Know the
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1269 to them, saying, \RL
+                           {''}This is my body, which is given for you. Do this
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1271 saying, \RL
+                  {''}This cup that is poured out for you is the new covenant
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [20]
+Missing character: There is no ἀ (U+1F00) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ν (U+03BD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no α (U+03B1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no φ (U+03C6) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ο (U+03BF) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ρ (U+03C1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ά (U+03AC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no π (U+03C0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ρ (U+03C1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ο (U+03BF) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no σ (U+03C3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no φ (U+03C6) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no έ (U+03AD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ρ (U+03C1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ε (U+03B5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ι (U+03B9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ν (U+03BD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ἀ (U+1F00) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ν (U+03BD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no α (U+03B1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no φ (U+03C6) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no έ (U+03AD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ρ (U+03C1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ε (U+03B5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ι (U+03B9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ν (U+03BD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+
+ [21]
+
+ [22]
+! Undefined control sequence.
+l.1462 declares, \RL
+                    {''}I will gather yet others to him besides those already
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [23]
+
+ [24]
+! Undefined control sequence.
+l.1542 ... the Judeans, but you and your father\RL
+                                                  {'}s
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \RL 
+                    
+l.1575 \RL
+          {''}Truly, I say to you, there is no one who has left house or
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [25]
+! Undefined control sequence.
+l.1603 God, for whoever has entered God\RL
+                                          {'}s rest has also rested from his
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1607 God\RL
+             {'}s time is not just a moment in the middle of history as one
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1625 ...e of God in vain.'' Let this phrase, \RL
+                                                  {''}It is time for the Lord
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1627 God\RL
+             {'}s Teaching he is gathering us together, to redeem us, to open
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1628 ...led with his praise. Let the phrase, \RL
+                                                  {''}It is
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [26]
+
+ [27]
+! Undefined control sequence.
+l.1705 Christ\RL
+                {'}s own work has turned death inside-out, showing himself to
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [28]
+! Undefined control sequence.
+l.1790 And God said to Noah, \RL
+                                {''}The time of all humankind has come before
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1797 ... the Judeans, but you and your father\RL
+                                                  {'}s
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [29]
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 1863.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 12.0011pt on input line 1863.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 11.99872pt on input line 1863.
+
+
+ [30]
+! Undefined control sequence.
+l.1875 \RL
+          {''}I will gather yet others to him
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1882 gospel of God, and saying, \RL
+                                     {''}The time is fulfilled, and the kingdom
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1887 Jesus said, \RL
+                      {''}Truly, I say to you, there is no one who has left
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [31]
+! Undefined control sequence.
+l.1938 \RL
+          {''}In a favorable time I listened to you,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1970 God, for whoever has entered God\RL
+                                          {'}s rest has also rested from his
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [32]
+! Undefined control sequence.
+l.1991 God\RL
+             {'}s power are being guarded through faith for a salvation ready
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [33]
+
+ [34]
+! Undefined control sequence.
+l.2147 God\RL
+             {'}s fellow workers. You are God\RL{'}s field, God\RL{'}s
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.2147 God\RL{'}s fellow workers. You are God\RL
+                                                {'}s field, God\RL{'}s
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.2147 ...orkers. You are God\RL{'}s field, God\RL
+                                                  {'}s
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [35]
+! Undefined control sequence.
+l.2202 \RL
+          {''}Wherever the bishop appears, there let the people be; even as,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [36]
+
+ [37]
+
+ [38]
+! Undefined control sequence.
+l.2332 Hosea, \RL
+                 {''}Go, take for yourself a wife of whoredom and children of
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.2341 And the Lord said to him, \RL
+                                    {''}Call his name Jezreel, for in yet a
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.2351 \RL
+          {''}Call her name Not Pitied, for I will not any longer have pity on
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.2358   ``silent''} son. And he said, \RL
+                                          {''}Call his name Not My People, for
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.2359 you are not my people and I am not your \RL
+                                                  {'}I am.\RL{'}\footnote{Tr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.2359 ... people and I am not your \RL{'}I am.\RL
+                                                  {'}\footnote{Translations
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.2364 it was said to them, \RL
+                               {''}You are not my people,'' they too shall be
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.2365 called, \RL
+                  {''}sons of a living god.'' And the sons of Judah and the
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [39]
+! Undefined control sequence.
+l.2430 For we are God\RL
+                        {'}s fellow workers\footnote{We get the word `synergy'
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.2431 ...) from this Greek word.}. You are God\RL
+                                                  {'}s field,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.2432 God\RL
+             {'}s building.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [40]
+! Undefined control sequence.
+l.2467 ... we sent Timothy, our brother and God\RL
+                                                  {'}s
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [41]
+Missing character: There is no λ (U+03BB) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ε (U+03B5) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ι (U+03B9) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no τ (U+03C4) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ο (U+03BF) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no υ (U+03C5) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ρ (U+03C1) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no γ (U+03B3) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ο (U+03BF) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ς (U+03C2) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ε (U+03B5) in font [lmroman8-italic]:mapping=tex
+-text;!
+Missing character: There is no ̓ (U+0313) in font [lmroman8-italic]:mapping=tex
+-text;!
+Missing character: There is no κ (U+03BA) in font [lmroman8-italic]:mapping=tex
+-text;!
+Missing character: There is no κ (U+03BA) in font [lmroman8-italic]:mapping=tex
+-text;!
+Missing character: There is no λ (U+03BB) in font [lmroman8-italic]:mapping=tex
+-text;!
+Missing character: There is no η (U+03B7) in font [lmroman8-italic]:mapping=tex
+-text;!
+Missing character: There is no σ (U+03C3) in font [lmroman8-italic]:mapping=tex
+-text;!
+Missing character: There is no ι (U+03B9) in font [lmroman8-italic]:mapping=tex
+-text;!
+Missing character: There is no α (U+03B1) in font [lmroman8-italic]:mapping=tex
+-text;!
+Missing character: There is no ͅ (U+0345) in font [lmroman8-regular]:mapping=te
+x-text;!
+
+
+ [42]
+! Undefined control sequence.
+l.2561 not a people, but now you are God\RL
+                                           {'}s people; once you had not
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.2575 saying, \RL
+                  {''}Behold, the Lord comes with ten thousands of his holy
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [43]
+
+ [44]
+
+ [45]
+
+ [46]
+
+ [47]
+
+ [48]
+
+ [49]
+! Undefined control sequence.
+<recently read> \RL 
+                    
+l.2956 \RL
+          {''}Peace of righteousness and glory of piety.''
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.2967 rejoicing at God\RL
+                          {'}s remembering.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.2984 have shaded Israel at God\RL
+                                   {'}s ordinance.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3004 disciples, \RL
+                     {''}Who do people say that the Son of Man is?'' And they
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3005 said, \RL
+                {''}Some say John the Baptist, others say Elijah, and others
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3006 ... of the prophets.'' He said to them, \RL
+                                                  {''}But who do
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3007 ...ay that I am?'' Simon Peter replied, \RL
+                                                  {''}You are the Christ, the
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3008 ...iving God.'' And Jesus answered him, \RL
+                                                  {''}Blessed are you,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [50]
+! Undefined control sequence.
+l.3026 ...ed. And Jesus came and said to them, \RL
+                                                  {''}All authority in heaven
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3039 \RL
+          {''}The Spirit of the Lord is upon me,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3051 to proclaim the year of the Lord\RL
+                                          {'}s favor.''
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3055 began to say to them, \RL
+                                {''}Today this Scripture has been fulfilled in
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3057 ...oming from his mouth. And they said, \RL
+                                                  {''}Is not this
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3058 Joseph\RL
+                {'}s son?'' And he said to them, \RL{''}Doubtless you will
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3058 ...h\RL{'}s son?'' And he said to them, \RL
+                                                  {''}Doubtless you will
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3059 quote to me this proverb, \RL
+                                    {'\,''}Physician, heal yourself.'' What we
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3061 And he said, \RL
+                       {''}Truly, I say to you, no prophet is acceptable in his
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [51]
+! Undefined control sequence.
+l.3080 as the greatest. And he said to them, \RL
+                                                {''}The kings of the Gentiles
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3087 \RL
+          {''}You are those who have stayed with me in my trials, \emph{and I
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [52]
+! Undefined control sequence.
+l.3149 ...brothers. But if anyone has the world\RL
+                                                  {'}s
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3151 how does God\RL
+                      {'}s love abide in him? Little children, let us not love
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3159 \RL
+          {''}Fear God and give him glory, because the hour of his judgment has
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3172 ...On the day of the resurrection {[}or \RL
+                                                  {''}standing again''
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ἀ (U+1F00) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ν (U+03BD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ά (U+1F71) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no σ (U+03C3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no τ (U+03C4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no α (U+03B1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no σ (U+03C3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ι (U+03B9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ς (U+03C2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+! Undefined control sequence.
+l.3175 to \RL
+             {''}seek those things which are above,'' {[}Colossians~3.1{]} but
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3179   ``silent''}. For he says \RL
+                                     {''}There was evening, and there was
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3181 recurred. Now \RL
+                        {''}one'' and \RL{''}eighth'' are the same, in itself
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3181 recurred. Now \RL{''}one'' and \RL
+                                         {''}eighth'' are the same, in itself
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3182 distinctly indicating that really \RL
+                                            {''}one'' and \RL{''}eighth'' of
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3182 ...icating that really \RL{''}one'' and \RL
+                                                  {''}eighth'' of
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [53]
+
+ [54]
+! Undefined control sequence.
+l.3255 themselves to a \RL
+                          {''}pre-determined pattern.'' The turning of the
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [55]
+
+ [56]
+
+ [57]
+! Undefined control sequence.
+l.3408 ... it. We cooked the harvest. It wouldn\RL
+                                                  {'}t be here, we
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3409 wouldn\RL
+                {'}t be eatin\RL{'} it if we hadn\RL{'}t done it all ourselves.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3409 wouldn\RL{'}t be eatin\RL
+                                {'} it if we hadn\RL{'}t done it all ourselves.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3409 ...n\RL{'}t be eatin\RL{'} it if we hadn\RL
+                                                  {'}t done it all ourselves.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3411 ...e same anyway, Lord, for this food we\RL
+                                                  {'}re about to eat.''
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [58]
+
+ [59]
+! Undefined control sequence.
+l.3565 To beg for God\RL
+                        {'}s mercy is to ask for his kingdom, that kingdom
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [60]
+
+ [61]
+
+ [62]
+
+ [63]
+! Undefined control sequence.
+l.3792 Lord. And Moses said to Aaron, \RL
+                                         {''}This is what the Lord spoke,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3795 \RL
+          {'}Among those who are near me
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [64]
+! Undefined control sequence.
+l.3801 I will be glorified.\RL
+                              {' ''}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3807 Do not say in your heart, \RL
+                                    {''}My strength and the mastery of my hand
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [65]
+! Undefined control sequence.
+l.3857 Look, as slaves\RL
+                         {'} eyes look to their masters\RL{'} hands,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3857 ...aves\RL{'} eyes look to their masters\RL
+                                                  {'} hands,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3859 as a maid\RL
+                   {'}s eyes to her mistress\RL{'} hands,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3859 as a maid\RL{'}s eyes to her mistress\RL
+                                               {'} hands,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3881 Bringing up clouds from the earth\RL
+                                           {'}s end,\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3906 Do not say, \RL
+                      {''}I sinned, and what has happened to me?''
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [66]
+! Undefined control sequence.
+l.3913 And do not say, \RL
+                          {''}His compassion is great;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [67]
+! Undefined control sequence.
+l.3987 \RL
+          {''}Yet even now,'' declares the LORD,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.3989 \RL
+          {''}return to me with all your heart,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [68]
+! Undefined control sequence.
+l.4082 are not, like so many, peddlers of God\RL
+                                                {'}s word, but as men of
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [69]
+
+ [70]
+
+ [71]
+! Undefined control sequence.
+l.4255 ... who are persecuted for righteousness\RL
+                                                  {'} sake, for
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [72]
+! Undefined control sequence.
+l.4280 Then God said, \RL
+                         {''}Let us make man in our image, after our
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [73]
+
+ [74]
+
+ [75]
+
+ [76]
+
+ [77]
+! Undefined control sequence.
+l.4558 Then God said, \RL
+                         {''}Let us make humankind according to our image and
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [78]
+
+ [79]
+! Undefined control sequence.
+l.4672 ...y horn will be exalted like a unicorn\RL
+                                                  {'}s,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4703 \RL
+          {''}Blessed are the poor in spirit, for theirs is the kingdom of
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4706 \RL
+          {''}Blessed are those who mourn, for they shall be comforted.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4708 \RL
+          {''}Blessed are the meek, for they shall inherit the earth.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4710 \RL
+          {''}Blessed are those who hunger and thirst for righteousness, for
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4713 \RL
+          {''}Blessed are the merciful, for they shall receive mercy.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4715 \RL
+          {''}Blessed are the pure in heart, for they shall see God.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [80]
+! Undefined control sequence.
+l.4717 \RL
+          {''}Blessed are the peacemakers, for they shall be called sons of
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4720 \RL
+          {''}Blessed are those who are persecuted for righteousness\RL{'}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4720 ... who are persecuted for righteousness\RL
+                                                  {'}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4723 \RL
+          {''}Blessed are you when others revile you and persecute you and
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4732 \RL
+          {''}Blessed are you who are poor, for yours is the kingdom of God.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4734 \RL
+          {''}Blessed are you who are hungry now, for you shall be satisfied.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4736 \RL
+          {''}Blessed are you who weep now, for you shall laugh.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4738 \RL
+          {''}Blessed are you when people hate you and when they exclude you
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4743 \RL
+          {''}But woe to you who are rich, for you have received your
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4746 \RL
+          {''}Woe to you who are full now, for you shall be hungry.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4748 \RL
+          {''}Woe to you who laugh now, for you shall mourn and weep.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4750 \RL
+          {''}Woe to you, when all people speak well of you, for so their
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4756 Pilate said to them, \RL
+                               {''}Behold the man!''
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4763 \RL
+          {''}I will destroy the wisdom of the wise,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [81]
+! Undefined control sequence.
+l.4785 so that, as it is written, \RL
+                                     {''}Let the one who boasts, boast in the
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [82]
+
+ [83]
+
+ [84]
+
+ [85]
+
+ [86]
+! Undefined control sequence.
+<recently read> \RL 
+                    
+l.5060 the whole earth is full of his glory!''}
+                                               \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5062 ...e was filled with smoke. And I said: \RL
+                                                  {''}Woe is
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5068 said: \RL
+                {''}Behold, this has touched your lips; your guilt is taken
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [87]
+
+ [88]
+
+ [89]
+
+ [90]
+! Undefined control sequence.
+l.5291 said:\RL
+               {\hfill\break
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5296 ...e was filled with smoke. And I said: \RL
+                                                  {''}O wretched that I
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5303 mouth and said: \RL
+                          {''}Behold, this has touched your lips, and it will
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5305 voice of the Lord saying, \RL
+                                    {''}Whom should I send, and who will go to
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5306 this people?'' And I said, \RL
+                                     {''}Here am I; send me!''
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5311 \RL
+          {''}Lord, even the demons are subject to us in your name!'' And he
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5312 {[}Jesus{]} said to them, \RL
+                                    {''}I saw Satan fall like lightning from
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5323 \RL
+          {''}Now is my soul troubled. And what shall I say? \RL{'}Father, save
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5323 ...soul troubled. And what shall I say? \RL
+                                                  {'}Father, save
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5324 me from this hour\RL
+                           {'}? But for this purpose I have come to this hour.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5325 ...me.'' Then a voice came from heaven: \RL
+                                                  {''}I
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5327 ... that it had thundered. Others said, \RL
+                                                  {''}An
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5328 ...has spoken to him.'' Jesus answered, \RL
+                                                  {''}This voice has come
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5333 \RL
+          {''}We have heard from the Law that the Christ remains forever. How
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5335 Man?'' So Jesus said to them, \RL
+                                        {''}The light is among you for a little
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [91]
+! Undefined control sequence.
+l.5369 \RL
+          {''}What is man, that you are mindful of him,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5392 \RL
+          {''}I will tell of your name to my brothers;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [92]
+! Undefined control sequence.
+l.5431 \RL
+          {''}Holy, holy, holy, is the Lord God Almighty,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5441 \RL
+          {''}Worthy are you, our Lord and God,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [93]
+
+ [94]
+! Undefined control sequence.
+l.5527 morning and evening incense, \RL
+                                       {''}from the rising of the sun to its
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [95]
+
+ [96]
+! Undefined control sequence.
+l.5635 who was wounded and bloody: \RL
+                                      {''}Offer sacrifice to the gods!'' To
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5636 this the holy martyr replied: \RL
+                                        {''}Do you not see that I am offering
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5651 God\RL
+             {'}s word, but as men of sincerity, as commissioned by God, in the
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [97]
+
+ [98]
+! Undefined control sequence.
+l.5803 Lord. And Moses said to Aaron, \RL
+                                         {''}This is what the Lord spoke,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5806 \RL
+          {'}Among those who are near me
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [99]
+! Undefined control sequence.
+l.5812 I will be glorified.\RL
+                              {' ''}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5840 ...sent to Hiram, king of Tyre, saying, \RL
+                                                  {''}As you dealt
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [100]
+! Undefined control sequence.
+l.5868 the Lord\RL
+                  {'}s shrine, to burn incense on the altar of incense. And
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5871 \RL
+          {''}It is not for you, Uzziah, to offer incense to the Lord, but for
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5883 excluded from the Lord\RL
+                                {'}s house. And Jotham his son was in charge of
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5902 ...she also was reproached by her father\RL
+                                                  {'}s maids, because
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5905 the maids said to her, \RL
+                                 {''}Do you not know you strangle your
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5914 \RL
+          {''}Take hold of the fish!'' So the child seized the fish and threw
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5915 ...he land. Then the angel said to him, \RL
+                                                  {''}Cut open the
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [101]
+! Undefined control sequence.
+l.5921 man said to the angel, \RL
+                                 {''}Brother Azarias, of what use is the
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5922 fish\RL
+              {'}s liver and heart and gall?'' And he said to him, \RL{''}As
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5922 ...eart and gall?'' And he said to him, \RL
+                                                  {''}As
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5929 \RL
+          {''}Brother, today we shall stay with Raguel. Now he is your
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5939 Then the young man said to the angel, \RL
+                                                {''}Brother Azarias, I have
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5944 die and bring my father\RL
+                                 {'}s and my mother\RL{'}s life, because of me,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5944 ... bring my father\RL{'}s and my mother\RL
+                                                  {'}s life, because of me,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5948 But the angel said to him {[}Tobias{]}, \RL
+                                                  {''}Do you not remember the
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5954 fish\RL
+              {'}s heart and liver, and you shall make smoke. Then the demon
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.5970 incense and put the fish\RL
+                                  {'}s heart and liver upon them and made a
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [102]
+
+ [103]
+! Undefined control sequence.
+l.6042 of all the perfumer\RL
+                             {'}s powders?
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [104]
+! Undefined control sequence.
+l.6092 \RL
+          {''}All the works of the Lord, that they are very good,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6096 It is not possible to say, \RL
+                                     {'}What is this? To what end is
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6097 this?\RL
+               {'}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6115 It is not possible to say, \RL
+                                     {'}What is this? To what end is
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6116 this?\RL
+               {'\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [105]
+
+ [106]
+! Undefined control sequence.
+l.6222 said:\RL
+               {\hfill\break
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6227 ...e was filled with smoke. And I said: \RL
+                                                  {''}O wretched that I
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6234 mouth and said: \RL
+                          {''}Behold, this has touched your lips, and it will
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6236 voice of the Lord saying, \RL
+                                    {''}Whom should I send, and who will go to
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6237 this people?'' And I said, \RL
+                                     {''}Here am I; send me!''
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6241 ...[}an angel{]} said to me {[}Ezekiel, \RL
+                                                  {''}Go in, and see the
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6247 ...se was ascending. And he said to me, \RL
+                                                  {''}Son of man, have
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6249 in their hidden bedroom? For they said, \RL
+                                                  {'}The Lord does not see; the
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6250 Lord has forsaken the land.\RL
+                                     {' ''} And he said to me, \RL{''}You will
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6250 ...he land.\RL{' ''} And he said to me, \RL
+                                                  {''}You will
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [107]
+! Undefined control sequence.
+l.6299 ...upon him. But the angel said to him, \RL
+                                                  {''}Do
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6307 \RL
+          {''}My soul magnifies the Lord,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [108]
+! Undefined control sequence.
+l.6351 God\RL
+             {'}s word, but as men of sincerity, as commissioned by God, in the
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6362 golden urn holding the manna, and Aaron\RL
+                                                 {'}s staff that budded, and
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [109]
+! Undefined control sequence.
+l.6399 \RL
+          {''}Offer sacrifice to the gods!'' To this the holy martyr replied:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6400 \RL
+          {''}Do you not see that I am offering my entire self as a sacrifice
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [110]
+
+ [111]
+
+ [112]
+
+ [113]
+
+ [114]
+
+ [115]
+
+ [116]
+
+ [117]
+! Undefined control sequence.
+l.6845 And he said to them, \RL
+                               {''}O foolish ones, and slow of heart to believe
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6853 \RL
+          {''}Stay with us, for it is toward evening and the day is now far
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6861 ...an angel of the Lord said to Philip, \RL
+                                                  {''}Rise and go toward the
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6867 And the Spirit said to Philip, \RL
+                                         {''}Go over and join this chariot.''
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6869 \RL
+          {''}Do you understand what you are reading?'' And he said, \RL{''}How
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6869 ...what you are reading?'' And he said, \RL
+                                                  {''}How
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6874 \RL
+          {''}Like a sheep he was led to the slaughter
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6886 And the eunuch said to Philip, \RL
+                                         {''}About whom, I ask you, does the
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6890 some water, and the eunuch said, \RL
+                                           {''}See, here is water! What
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [118]
+! Undefined control sequence.
+l.6904 unless they are sent? As it is written, \RL
+                                                  {''}How beautiful are the
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6906 the gospel. For Isaiah says, \RL
+                                       {''}Lord, who has believed what he has
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.6934 the lake of fire. And if anyone\RL
+                                         {'}s name was not found written in the
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [119]
+
+ [120]
+
+ [121]
+! Undefined control sequence.
+l.7075 ...o were hanged railed at him, saying, \RL
+                                                  {''}Are
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7077 saying, \RL
+                  {''}Do you not fear God, since you are under the same
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7080 said, \RL
+                {''}Jesus, remember me when you come into your kingdom.'' And
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7081 he said to him, \RL
+                          {''}Truly, I say to you, today you will be with me in
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [122]
+! Undefined control sequence.
+l.7132 If anyone says, \RL
+                          {''}I love God,'' and hates his brother, he is a
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [123]
+
+ [124]
+
+ [125]
+! Undefined control sequence.
+l.7305 because the strong of the earth are God\RL
+                                                 {'}s.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7319 Woe to him who says to the wood, \RL
+                                           {''}Be sober! Wake up!``\hfill\break
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7320 and to the stone, \RL
+                            {''}Be exalted!''
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7343 And it shall be on the day of the Lord\RL
+                                                {'}s sacrifice
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7345 ...I will punish the rulers and the king\RL
+                                                  {'}s house
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [126]
+! Undefined control sequence.
+l.7377 said to the slanderer, \RL
+                                 {''}The Lord rebuke you, O slanderer! And the
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7381 those standing before him, saying, \RL
+                                             {''}Remove the filthy clothes from
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7382 him.'' And to him he said, \RL
+                                     {''}Behold, I have removed your
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7396 ...o were hanged railed at him, saying, \RL
+                                                  {''}Are
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7398 saying, \RL
+                  {''}Do you not fear God, since you are under the same
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7401 said, \RL
+                {''}Jesus, remember me when you come into your kingdom.'' And
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7402 he said to him, \RL
+                          {''}Truly, I say to you, today you will be with me in
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [127]
+! Undefined control sequence.
+l.7410 \RL
+          {''}In a favorable time I listened to you,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7415 We put no obstacle in anyone\RL
+                                      {'}s way, so that no fault may be found
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7449 When he said above, \RL
+                              {''}You have neither desired nor taken pleasure
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7451 ...ccording to the law), then he added, \RL
+                                                  {''}Behold,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [128]
+! Undefined control sequence.
+l.7475 ...e he first loved us. If anyone says, \RL
+                                                  {''}I love God,'' and
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [129]
+! Undefined control sequence.
+l.7527 \RL
+          {''}Do not give dogs what is holy, and do not throw your pearls
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [130]
+
+ [131]
+
+ [132]
+
+ [133]
+
+ [134]
+! Undefined control sequence.
+l.7844 said:\RL
+               {\hfill\break
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7849 ...e was filled with smoke. And I said: \RL
+                                                  {''}O wretched that I
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7856 mouth and said: \RL
+                          {''}Behold, this has touched your lips, and it will
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7858 voice of the Lord saying, \RL
+                                    {''}Whom should I send, and who will go to
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7859 this people?'' And I said, \RL
+                                     {''}Here am I; send me!''
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [135]
+! Undefined control sequence.
+l.7910 \RL
+          {''}Hosanna to the Son of David! Blessed is he who comes in the name
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7915 \RL
+          {''}For God so loved the world, that he gave his only Son, that
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [136]
+! Undefined control sequence.
+l.7924 given thanks, he broke it, and said, \RL
+                                               {''}This is my body, which is
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7926 took the cup, after supper, saying, \RL
+                                              {''}This cup is the new covenant
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7929 Lord\RL
+              {'}s death until he comes.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [137]
+! Undefined control sequence.
+l.7989 in the heart of the king\RL
+                                  {'}s enemies.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8023 Of a king\RL
+                   {'}s daughter---all her glory is within,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8032 they will be led into a king\RL
+                                      {'}s shrine.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [138]
+! Undefined control sequence.
+l.8049 mother\RL
+                {'}s sister, Mary the wife of Clopas, and Mary Magdalene. When
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8051 said to his mother, \RL
+                              {''}Woman, behold, your son!'' Then he said to
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8052 the disciple, \RL
+                        {''}Behold, your mother!'' And from that hour the
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8062 ...s, and yet Jesus says to His mother, \RL
+                                                  {''}Woman, behold your
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8063 son,'' {[}John~19:26{]} and not \RL
+                                          {''}Behold you have this son also,''
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8064 then He virtually said to her, \RL
+                                         {''}Lo, this is Jesus, whom you
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8067 ...him, then it is said of him to Mary, \RL
+                                                  {''}Behold your son
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [139]
+
+ [140]
+! Undefined control sequence.
+l.8152 `that the Scripture might be fulfilled: \RL
+                                                  {''}Not one of his bones will
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [141]
+! Undefined control sequence.
+l.8251 ye faithful, let us adore Christ\RL
+                                          {'}s holy resurrection. For lo,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [142]
+
+ [143]
+
+ [144]
+
+ [145]
+! Undefined control sequence.
+l.8487 the cruel tyrant: \RL
+                            {''}My son, have pity on me. I carried you nine
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [146]
+! Undefined control sequence.
+l.8515 The sinners\RL
+                     {'} death is wretched,\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8517 The Lord will redeem his slaves\RL
+                                         {'} souls,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8556 ...ir midst he discerningly judges gods:\RL
+                                                  {\hfill\break
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [147]
+! Undefined control sequence.
+l.8563 \RL
+          {''}Give justice to orphan and poor;\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8567 from a sinner\RL
+                       {'}s hand rescue them.''
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8573 I said, \RL
+                  {''}Gods you are,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8591 said:\RL
+               {\hfill\break
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8596 ...e was filled with smoke. And I said: \RL
+                                                  {''}O wretched that I
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8603 mouth and said: \RL
+                          {''}Behold, this has touched your lips, and it will
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8605 voice of the Lord saying, \RL
+                                    {''}Whom should I send, and who will go to
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8606 this people?'' And I said, \RL
+                                     {''}Here am I; send me!''
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8615 \RL
+          {''}What is this conversation that you are holding with each other as
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8617 Cleopas, answered him, \RL
+                                 {''}Are you the only visitor to Jerusalem who
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8619 he said to them, \RL
+                           {''}What things?'' And they said to him,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8620 \RL
+          {''}Concerning Jesus of Nazareth, a man who was a prophet mighty in
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8630 \RL
+          {''}O foolish ones, and slow of heart to believe all that the
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [148]
+! Undefined control sequence.
+l.8638 \RL
+          {''}Stay with us, for it is toward evening and the day is now far
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8642 ...eir sight.} They said to each other, \RL
+                                                  {''}Did not our
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8646 them gathered together, saying, \RL
+                                          {''}The Lord has risen indeed, and
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8652 \RL
+          {''}Truly, truly, I say to you, he who does not enter the sheepfold
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8665 \RL
+          {''}I have shown you many good works from the Father; for which of
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8666 ...o stone me?'' The Jews answered him, \RL
+                                                  {''}It is
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8669 \RL
+          {''}Is it not written in your Law, \RL{'}I said, you are gods\RL{'}?
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8669 \RL{''}Is it not written in your Law, \RL
+                                                {'}I said, you are gods\RL{'}?
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8669 ... your Law, \RL{'}I said, you are gods\RL
+                                                  {'}?
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8672 sent into the world, \RL
+                               {'}You are blaspheming,\RL{'} because I said,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8672 ...the world, \RL{'}You are blaspheming,\RL
+                                                  {'} because I said,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8673 \RL
+          {'}I am the Son of God\RL{'}? If I am not doing the works of my
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8673 \RL{'}I am the Son of God\RL
+                                   {'}? If I am not doing the works of my
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [149]
+! Undefined control sequence.
+l.8691 be fulfilled: \RL
+                        {''}Not one of his bones will be broken.'' And again
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8692 another Scripture says, \RL
+                                  {''}They will look on him whom they have
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8698 \RL
+          {''}an idol has no real existence,'' and that \RL{''}there is no God
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8698 ...ol has no real existence,'' and that \RL
+                                                  {''}there is no God
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8700 earth---as indeed there are many \RL
+                                           {''}gods'' and many
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8701 \RL
+          {''}lords''---yet for us there is one God, the Father, from whom are
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [150]
+
+ [151]
+
+ [152]
+
+ [153]
+! Undefined control sequence.
+l.8910 St John Chrysostom famously said \RL
+                                           {''}If you cannot find Christ in the
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [154]
+
+ [155]
+! Undefined control sequence.
+l.9062 From the sun\RL
+                      {'}s rising to its setting,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [156]
+! Undefined control sequence.
+l.9095 \RL
+          {''}Holy, holy, holy is the Lord Sabaoth; the whole earth is full of
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.9097 ...e was filled with smoke. And I said: \RL
+                                                  {''}O
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.9104 mouth and said: \RL
+                          {''}Behold, this has touched your lips, and it will
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.9106 voice of the Lord saying, \RL
+                                    {''}Whom should I send, and who will go to
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.9107 this people?'' And I said, \RL
+                                     {''}Here am I; send me!''
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.9115 ...g with him. And Peter said to Jesus, \RL
+                                                  {''}Lord, it
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.9119 cloud said, \RL
+                      {''}This is my beloved Son, with whom I am well pleased;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.9122 \RL
+          {''}Rise, and have no fear.'' And when they lifted up their eyes,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [157]
+! Undefined control sequence.
+l.9132 \RL
+          {''}What is this conversation that you are holding with each other as
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.9134 Cleopas, answered him, \RL
+                                 {''}Are you the only visitor to Jerusalem who
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.9136 he said to them, \RL
+                           {''}What things?'' And they said to him,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.9137 \RL
+          {''}Concerning Jesus of Nazareth, a man who was a prophet mighty in
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.9147 \RL
+          {''}O foolish ones, and slow of heart to believe all that the
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.9155 \RL
+          {''}Stay with us, for it is toward evening and the day is now far
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.9159 ...heir sight. They said to each other, \RL
+                                                  {''}Did not our hearts
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.9163 gathered together, saying, \RL
+                                     {''}The Lord has risen indeed, and has
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.9170 \RL
+          {''}the uncircumcision'' by what is called the circumcision, which is
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [158]
+
+ [159]
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 1 on input line 9265.
+
+
+
+ [160]
+
+ [161]
+! Undefined control sequence.
+<recently read> \RL 
+                    
+l.9391 \RL
+          {قدوس} \RL{الله،} \RL{قدوس} \RL{القوي،} \RL{قدوس} \RL{الذي،} \RL{لا}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ق (U+0642) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no س (U+0633) in font [lmroman10-regular]:mapping=t
+ex-text;!
+! Undefined control sequence.
+l.9391 \RL{قدوس} \RL
+                    {الله،} \RL{قدوس} \RL{القوي،} \RL{قدوس} \RL{الذي،} \RL{لا}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ه (U+0647) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ، (U+060C) in font [lmroman10-regular]:mapping=t
+ex-text;!
+! Undefined control sequence.
+l.9391 \RL{قدوس} \RL{الله،} \RL
+                               {قدوس} \RL{القوي،} \RL{قدوس} \RL{الذي،} \RL{لا}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ق (U+0642) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no س (U+0633) in font [lmroman10-regular]:mapping=t
+ex-text;!
+! Undefined control sequence.
+l.9391 \RL{قدوس} \RL{الله،} \RL{قدوس} \RL
+                                         {القوي،} \RL{قدوس} \RL{الذي،} \RL{لا}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ق (U+0642) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ي (U+064A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ، (U+060C) in font [lmroman10-regular]:mapping=t
+ex-text;!
+! Undefined control sequence.
+l.9391 ...وس} \RL{الله،} \RL{قدوس} \RL{القوي،} \RL
+                                                  {قدوس} \RL{الذي،} \RL{لا}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ق (U+0642) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no س (U+0633) in font [lmroman10-regular]:mapping=t
+ex-text;!
+! Undefined control sequence.
+l.9391 ...له،} \RL{قدوس} \RL{القوي،} \RL{قدوس} \RL
+                                                  {الذي،} \RL{لا}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ذ (U+0630) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ي (U+064A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ، (U+060C) in font [lmroman10-regular]:mapping=t
+ex-text;!
+! Undefined control sequence.
+l.9391 ...وس} \RL{القوي،} \RL{قدوس} \RL{الذي،} \RL
+                                                  {لا}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+! Undefined control sequence.
+l.9392 \RL
+          {يموت} \RL{ارحمنا}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ي (U+064A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ت (U+062A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+! Undefined control sequence.
+l.9392 \RL{يموت} \RL
+                    {ارحمنا}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ح (U+062D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no Ἅ (U+1F0D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no γ (U+03B3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ι (U+03B9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ο (U+03BF) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ς (U+03C2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ὁ (U+1F41) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ε (U+03B5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ό (U+03CC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ς (U+03C2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no Ἅ (U+1F0D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no γ (U+03B3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ι (U+03B9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ο (U+03BF) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ς (U+03C2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ἰ (U+1F30) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no σ (U+03C3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no χ (U+03C7) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no υ (U+03C5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ρ (U+03C1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ό (U+03CC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ς (U+03C2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no Ἅ (U+1F0D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no γ (U+03B3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ι (U+03B9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ο (U+03BF) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ς (U+03C2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ἀ (U+1F00) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no θ (U+03B8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ά (U+03AC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ν (U+03BD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no α (U+03B1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no τ (U+03C4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ο (U+03BF) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ς (U+03C2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ἐ (U+1F10) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no λ (U+03BB) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no έ (U+03AD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no η (U+03B7) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no σ (U+03C3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ο (U+03BF) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ν (U+03BD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ἡ (U+1F21) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no μ (U+03BC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ᾶ (U+1FB6) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ς (U+03C2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no с (U+0441) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no в (U+0432) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ѧ (U+0467) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no т (U+0442) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ꙑ (U+A651) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no и (U+0438) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no б (U+0431) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no о (U+043E) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ж (U+0436) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no е (U+0435) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no с (U+0441) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no в (U+0432) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ѧ (U+0467) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no т (U+0442) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ꙑ (U+A651) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no и (U+0438) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no к (U+043A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no р (U+0440) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ѣ (U+0463) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no п (U+043F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ъ (U+044A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no к (U+043A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ꙑ (U+A651) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no и (U+0438) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no с (U+0441) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no в (U+0432) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ѧ (U+0467) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no т (U+0442) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ꙑ (U+A651) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no и (U+0438) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no б (U+0431) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no е (U+0435) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no с (U+0441) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ъ (U+044A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no м (U+043C) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no р (U+0440) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ь (U+044C) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no т (U+0442) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ь (U+044C) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no н (U+043D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ꙑ (U+A651) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no и (U+0438) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no п (U+043F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no о (U+043E) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no м (U+043C) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no и (U+0438) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no л (U+043B) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no о (U+043E) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no у (U+0443) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no и (U+0438) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no н (U+043D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no а (U+0430) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no с (U+0441) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ъ (U+044A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ⁘ (U+2058) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+
+ [162]
+
+ [163]
+
+ [164]
+
+ [165]
+
+ [166]
+Missing character: There is no χ (U+03C7) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+
+ [167]
+
+ [168]
+! Undefined control sequence.
+l.9754 O sacred Peter and Paul, the Word\RL
+                                           {'}s chief plowmen;\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.9764 and unshakeable pillars of tow\RL
+                                        {'}ring height,\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+ [169]
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 2 on input line 9844.
+
+
+Package longtable Warning: Table widths have changed. Rerun LaTeX.
+
+
+
+ [170] (./combined.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 18402 strings out of 473832
+ 339203 string characters out of 5729482
+ 910844 words of memory out of 5000000
+ 41220 multiletter control sequences out of 15000+600000
+ 565585 words of font info for 88 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 90i,8n,114p,1005b,601s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on combined.pdf (170 pages).

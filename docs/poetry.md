@@ -1,11 +1,11 @@
 ---
 layout: page
-title: doggeral
+title: Doggerel
 ---
 
-I'm sure there's some context here, but I'm presenting it without it.
+I'm sure there's some context here, but I'm presenting the poems without most of it.
 
-## Reflections
+## Poetry loosely called
 
 | Poem    | Occasion 
 |---------|----------|
