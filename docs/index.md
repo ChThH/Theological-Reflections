@@ -21,7 +21,7 @@ Welcome to my page where I've collected various theological reflections and hand
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
-    <h2><a href="Talks">Talks</a></h2>
+    <h2><a href="talks">Talks</a></h2>
     <p>Other talks I've given.</p>
   </div>
 
