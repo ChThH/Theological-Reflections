@@ -7,10 +7,30 @@
   "foam.edit.linkReferenceDefinitions": "withExtensions",
   "[markdown]": {
     "editor.quickSuggestions": {
-      "other": true,
+      "other": false,
       "comments": false,
       "strings": false
-    }
+    },
+    "editor.suggest.showWords": false,
+    "editor.wordBasedSuggestions": "off"
+  },
+    "[plaintext]": {
+    "editor.quickSuggestions": {
+      "other": false,
+      "comments": false,
+      "strings": false
+    },
+    "editor.suggest.showWords": false,
+    "editor.wordBasedSuggestions": "off"
+  },
+    "[text]": {
+    "editor.quickSuggestions": {
+      "other": false,
+      "comments": false,
+      "strings": false
+    },
+    "editor.suggest.showWords": false,
+    "editor.wordBasedSuggestions": "off"
   },
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",

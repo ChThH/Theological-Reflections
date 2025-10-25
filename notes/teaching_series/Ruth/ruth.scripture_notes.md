@@ -2,9 +2,24 @@
 title: The Book of Ruth
 desc: 'ESV Text'
 created: 2025/09/13 21:25:00
-updated: 2025/10/18 00:22:46
+updated: 2025-10-25 00:58:03
 pandoc_script: pandoc notes/teaching_series/Ruth/ruth.scripture_notes.md -o working_folder/ruth_commen.pdf --pdf-engine=lualatex --template=templates/scripture-commentary-template.tex --lua-filter filters/arb_environ_fenced_div.lua
 ---
+
+:::{.commentary}
+# Introduction
+
+## Themes
+
+### Feminine Perspective
+#### Solidarity
+
+### Gentiles
+#### Connection with Christ's Geneology
+
+### Redeemer
+
+:::
 
 # Chapter 1 
 :::{.scripture}
@@ -12,9 +27,14 @@ pandoc_script: pandoc notes/teaching_series/Ruth/ruth.scripture_notes.md -o work
 :::
 
 :::{.commentary}
-The book of Ruth starts out by giving us the setting, during when the judges judged (literal translation). In the days of the judges, 'there was no king in Israel, and everyone did what was right in his own eyes (Judges 17.6, 18.1, 19.1, 21.25). The Lord warned against his people living this way before they crossed the River Jordan to posess the land (Deuteronomy 12.8) and the Book of Proverbs (12.15) calls fools those who live doing 'what is right in their own eyes'. In this time the Lord seemed to withdrew and famine encompassed the land. Like Jacob of old, Elimelech left the country to find food. 
+The book of Ruth starts out by giving us the setting, during the days when the judges judged (literal translation)[^c1]. In the days of the judges, 'there was no king in Israel, and everyone did what was right in his own eyes (Judges 17.6, 18.1, 19.1, 21.25). The Lord warned against his people living this way before they crossed the River Jordan to posess the land (Deuteronomy 12.8) and the Book of Proverbs (12.15) calls fools those who live doing 'what is right in their own eyes'. In this time the Lord seemed to withdrew and famine encompassed the land. Like Abraham of old, Elimelech left the country to find food (Genesis 12.10). But instead of Egypt Elimelech goes to Moab.
 
-Elimelech is the first name we encounter in this book; many of the names have significant meaning as we shall see. This one is no exception, it means "My God is King." However, with out the explicit word of God as in the case of Jacob, we are uncertain if he is trusting in him to provide. His two sons names, Mahlon and Chilon, translate to "Weakness" and "Fragility". While Elimelech dies relatively quickly the two sons take wives but die after about 10 years. At the end of the opening paragraph, a tragedy is shown. Naomi is widowed and without children to support her.
+Elimelech is the first name we encounter in this book; many of the names have significant meaning as we shall see. This one is no exception, it means "My God is King." However, with out the explicit word of God, the name takes on an ironic meaning as he is not trusting in God, his king, to provide for his family. Another irony is that he is from the town of Bethleham[^c2] "house of bread." Moreover, his two sons names, Mahlon and Chilon, translate to "Weakness" and "Fragility". 
+
+Elimelech dies relatively quickly after leaving Judah, while the two sons take wives but die after about 10 years. At the end of the opening paragraph, a tragedy is shown. Naomi is widowed and without sons to support her. This is particularly perilous as women without a protecting man in the ancient world were not able to support themselves and subject to opression and abuse. But as we go through the story we will see that like the widow of Nain whose son was raised by Christ (Luke 7.11-17), God will give Naomi a family. 
+
+[^c1]: This is during the collapse of the Bronze Age, a generally lawless time for the Ancient Near East. 
+[^c2]: Note the connection between Bethleham here and the very dark story that makes up the end of Judges starting in chapter 17.
 :::
 
 :::{.scripture}
@@ -22,7 +42,9 @@ Elimelech is the first name we encounter in this book; many of the names have si
 :::
 
 :::{.commentary}
+Desititue in Moab, Noami has heard that God has visited his people in Judah, and the famine is over. Over and over again in the Scriptures we hear that God hears his people and sees their affliction (Exodus 2.23-25, 3.7, 3.16, Judges 3.9, 2 Ezra 19.9 [Nehemiah 9.9], Psalm 105.44 \[106.44]). This pattern culminates in the Incarnation as the Virgin sang "Blessed be the Lord God of Israel, for he has visited and redeemed his people" (Luke 1.68).
 
+Now Naomi desires to go back to Judah and send her daughters-in-law back to their mothers' houses. They were still young and presumably could find other husbands to care for them. Initially they protest and say they shall go with Naomi, but she counter-protests that she is past the age of childbearing and will not produce sons for them to marry, or even if she did, would they wait till they were old enough? At this point Orpah takes Naomi's advice and kisses her goodbye, but Ruth clings to Naomi. Fittingly, *Orpah* means "to turn back" and *Ruth* means "friend" or "companion". 
 :::
 
 :::{.scripture}
@@ -30,7 +52,9 @@ Elimelech is the first name we encounter in this book; many of the names have si
 :::
 
 :::{.commentary}
+And here we come to one of the most moving passages of Scripture. Naomi again tries to get Ruth to go back to her people (and her gods!) but Ruth pledges herself to Naomi with an oath, that she shall not leave her. The last section can also be rendered "if even death parts me from you". This originally would have meant Ruth would be buried beside Naomi when they went the way of all the earth (Joshua 23.14, 3 Kingdoms [1 Kings] 2.2). However, we know that in the Resurrection, not even death can separate us from God and his people. For God in Christ entered into death redeemed from it, opening paradise[^c3]. But more on the concept of the Redeemer and redeption as we continue.
 
+[^c3]: Christ is risen from the dead, trampling down death by death and upon those in the tombs, bestoying life.
 :::
 
 :::{.scripture}
