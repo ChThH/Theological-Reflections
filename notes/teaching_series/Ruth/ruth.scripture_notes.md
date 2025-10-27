@@ -2,7 +2,7 @@
 title: The Book of Ruth
 desc: 'ESV Text'
 created: 2025/09/13 21:25:00
-updated: 2025-10-25 00:58:03
+updated: 2025-10-25 09:27:53
 pandoc_script: pandoc notes/teaching_series/Ruth/ruth.scripture_notes.md -o working_folder/ruth_commen.pdf --pdf-engine=lualatex --template=templates/scripture-commentary-template.tex --lua-filter filters/arb_environ_fenced_div.lua
 ---
 
@@ -54,7 +54,7 @@ Now Naomi desires to go back to Judah and send her daughters-in-law back to thei
 :::{.commentary}
 And here we come to one of the most moving passages of Scripture. Naomi again tries to get Ruth to go back to her people (and her gods!) but Ruth pledges herself to Naomi with an oath, that she shall not leave her. The last section can also be rendered "if even death parts me from you". This originally would have meant Ruth would be buried beside Naomi when they went the way of all the earth (Joshua 23.14, 3 Kingdoms [1 Kings] 2.2). However, we know that in the Resurrection, not even death can separate us from God and his people. For God in Christ entered into death redeemed from it, opening paradise[^c3]. But more on the concept of the Redeemer and redeption as we continue.
 
-[^c3]: Christ is risen from the dead, trampling down death by death and upon those in the tombs, bestoying life.
+[^c3]: Christ is risen from the dead, trampling down death by death and upon those in the tombs, bestowing life.
 :::
 
 :::{.scripture}
@@ -71,6 +71,8 @@ And here we come to one of the most moving passages of Scripture. Naomi again tr
 :::
 
 :::{.commentary}
+
+
 
 :::
 
