@@ -11,5 +11,5 @@ Handouts from the Book of Ruth Series.
 | [Reading Text](/publish/Series_with_Subdeacon_Methodius/Ruth/ruth-greek-english-compare.pdf) | Text read in class, adapted from the ESV. |
 | [Notes](/publish/Series_with_Subdeacon_Methodius/Ruth/ruth_commen.pdf) | Background notes and observations |
 | Cross References | Ruth and other parts of the Bible (Coming Soon) |
-| [St Ephraim's Nativity Hymn 9](docs/publish/Series_with_Subdeacon_Methodius/Ruth/ephrem-hymn-9.pdf) | A Nativity Hymn exploring the women in Christ's Genealogy |
+| [St Ephraim's Nativity Hymn 9](/publish/Series_with_Subdeacon_Methodius/Ruth/ephrem-hymn-9.pdf) | A Nativity Hymn exploring the women in Christ's Genealogy |
 | Bibliography | Some resources we used. (Coming Soon) |
