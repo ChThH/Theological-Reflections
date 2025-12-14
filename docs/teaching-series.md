@@ -19,7 +19,7 @@ This page has links to material for Subdeacon Methodius and Christopher's teachi
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
-    <h2><a href="ruth">Q4 Upcoming: Ruth</a></h2>
+    <h2><a href="ruth">Q4: Ruth</a></h2>
     <p>A series on the Book of Ruth in preparation for Nativity and the Genealogy Sunday.</p>
   </div>
 
