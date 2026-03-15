@@ -5,6 +5,17 @@ title: Teaching Series
 
 This page has links to material for Subdeacon Methodius and Christopher's teaching series at Holy Resurrection Orthodox Church. About four series are done each year and each series is two (or three) weeks long, consisting of an informal discussion between the two with audience participation. (A bit like a live podcast with two hosts.)
 
+## 2026
+<div style="display: flex; flex-wrap: wrap; gap: 1rem;">
+
+  <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
+    <h2><a href="canon">Q1: Canon of Repentance</a></h2>
+    <p>A series on The Canon of Repentance in preparation for its reading during Lent.</p>
+  </div>
+
+</div>
+
+
 ## 2025
 <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
 
@@ -24,6 +35,7 @@ This page has links to material for Subdeacon Methodius and Christopher's teachi
   </div>
 
 </div>
+
 
 <!--
 ## upcoming 
