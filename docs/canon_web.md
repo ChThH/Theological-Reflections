@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "The Great Canon of Repentance — St Andrew of Crete"
 ---
 
