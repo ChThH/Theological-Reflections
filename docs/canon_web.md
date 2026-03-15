@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "The Great Canon of Repentance — St Andrew of Crete"
 ---
 
@@ -20,11 +20,11 @@ Come, wretched soul, with thy flesh to the Creator of all. Make confession to Hi
 
 <span id="o1-3"></span>
 (O1.3/3) Have mercy on me, O God, have mercy on me.
-I have rivaled in transgression Adam the first-formed man, and I have found myself stripped naked of God, of the eternal Kingdom and its joy, because of my sins. ([Genesis 3.1–13](https://www.biblegateway.com/passage/?search=Genesis+3&version=RSV))
+I have rivaled in transgression Adam the first-formed man, and I have found myself stripped naked of God, of the eternal Kingdom and its joy, because of my sins ([Genesis 3.1–13](https://www.biblegateway.com/passage/?search=Genesis+3&version=RSV)).
 
 <span id="o1-4"></span>
 (O1.4/4) Have mercy on me, O God, have mercy on me.
-Woe to thee, miserable soul! How like thou art to the first Eve! For thou hast looked in wickedness and wast grievously wounded ([Micah 1.9](https://www.biblegateway.com/passage/?search=Micah+1&version=RSV), [Nahum 3.19](https://www.biblegateway.com/passage/?search=Nahum+3&version=RSV)); thou hast touched the tree and rashly tasted the deceptive food. ([Genesis 3.1–13](https://www.biblegateway.com/passage/?search=Genesis+3&version=RSV))
+Woe to thee, miserable soul! How like thou art to the first Eve! For thou hast looked in wickedness and wast grievously wounded ([Micah 1.9](https://www.biblegateway.com/passage/?search=Micah+1&version=RSV), [Nahum 3.19](https://www.biblegateway.com/passage/?search=Nahum+3&version=RSV)); thou hast touched the tree and rashly tasted the deceptive food ([Genesis 3.1–13](https://www.biblegateway.com/passage/?search=Genesis+3&version=RSV)).
 
 <span id="o1-5"></span>
 (O1.5/5) Have mercy on me, O God, have mercy on me.
@@ -32,19 +32,19 @@ Instead of the visible Eve, I have the Eve of the mind: the passionate thought i
 
 <span id="o1-6"></span>
 (O1.6/6) Have mercy on me, O God, have mercy on me.
-Adam was justly banished from Eden because he disobeyed one commandment of Thine, O Savior. What then shall I suffer, for I am always rejecting Thy words of life? ([Genesis 3.23–24](https://www.biblegateway.com/passage/?search=Genesis+3&version=RSV), [Acts 7.38](https://www.biblegateway.com/passage/?search=Acts+7&version=RSV))
+Adam was justly banished from Eden because he disobeyed one commandment of Thine, O Savior. What then shall I suffer, for I am always rejecting Thy words of life ([Genesis 3.23–24](https://www.biblegateway.com/passage/?search=Genesis+3&version=RSV), [Acts 7.38](https://www.biblegateway.com/passage/?search=Acts+7&version=RSV))?
  
 <span id="o1-7"></span>
 (O1.7/7) Have mercy on me, O God, have mercy on me.
-By my own free choice have I incurred the guilt of Cain’s murder. I have killed my conscience, bringing the flesh to life and making war upon the soul by my wicked actions. ([Genesis 4.8](https://www.biblegateway.com/passage/?search=Genesis+4&version=RSV))
+By my own free choice have I incurred the guilt of Cain’s murder. I have killed my conscience, bringing the flesh to life and making war upon the soul by my wicked actions ([Genesis 4.8](https://www.biblegateway.com/passage/?search=Genesis+4&version=RSV)).
 
 <span id="o1-8"></span>
 (O1.8/8) Have mercy on me, O God, have mercy on me.
-O Jesus, I have not been like Abel in his righteousness ([Matthew 23.35](https://www.biblegateway.com/passage/?search=Matthew+23&version=RSV)). Never have I offered Thee acceptable gifts or godly actions, a pure sacrifice or an unblemished life. ([Genesis 4.4](https://www.biblegateway.com/passage/?search=Genesis+4&version=RSV), [Hebrews 11.4](https://www.biblegateway.com/passage/?search=Hebrews+11&version=RSV))
+O Jesus, I have not been like Abel in his righteousness ([Matthew 23.35](https://www.biblegateway.com/passage/?search=Matthew+23&version=RSV)). Never have I offered Thee acceptable gifts or godly actions, a pure sacrifice or an unblemished life ([Genesis 4.4](https://www.biblegateway.com/passage/?search=Genesis+4&version=RSV), [Hebrews 11.4](https://www.biblegateway.com/passage/?search=Hebrews+11&version=RSV)).
 
 <span id="o1-9"></span>
 (O1.9/9) Have mercy on me, O God, have mercy on me.
-Like Cain, O miserable soul, we too have offered, to the Creator of all, defiled actions and a polluted sacrifice and a worthless life: and so we also are condemned. ([Genesis 4.5](https://www.biblegateway.com/passage/?search=Genesis+4&version=RSV), [1 John 3.12](https://www.biblegateway.com/passage/?search=1+John+3&version=RSV))
+Like Cain, O miserable soul, we too have offered, to the Creator of all, defiled actions and a polluted sacrifice and a worthless life: and so we also are condemned ([Genesis 4.5](https://www.biblegateway.com/passage/?search=Genesis+4&version=RSV), [1 John 3.12](https://www.biblegateway.com/passage/?search=1+John+3&version=RSV)).
 
 <span id="o1-10"></span>
 (O1.10/10) Have mercy on me, O God, have mercy on me.
@@ -127,7 +127,7 @@ Attend, O Heaven, and I shall speak and sing ([Deuteronomy 32.1](https://www.bib
 
 <span id="o2-1"></span>
 (O2.1/24) Have mercy on me, O God, have mercy on me.
-Attend, O Heaven, and I shall speak; give ear, O earth, to the voice of one who repents before God and sings His praise. ([Deuteronomy 32.1](https://www.biblegateway.com/passage/?search=Deuteronomy+32&version=RSV))
+Attend, O Heaven, and I shall speak; give ear, O earth, to the voice of one who repents before God and sings His praise ([Deuteronomy 32.1](https://www.biblegateway.com/passage/?search=Deuteronomy+32&version=RSV)).
 
 <span id="o2-2"></span>
 (O2.2/25) Have mercy on me, O God, have mercy on me.
@@ -147,7 +147,7 @@ I offer to Thee, O merciful Lord, the tears of the Harlot ([Luke 7.37–38](http
 
 <span id="o2-6"></span>
 (O2.6/29) Have mercy on me, O God, have mercy on me.
-With the lusts of passion ([Sirach 23.6](https://www.biblegateway.com/passage/?search=Sirach+23&version=RSV), [1 Thessalonians 4.5](https://www.biblegateway.com/passage/?search=1+Thessalonians+4&version=RSV), [2 Peter 2.2](https://www.biblegateway.com/passage/?search=2+Peter+2&version=RSV), 12–16, [Jude 18](https://www.biblegateway.com/passage/?search=Jude&version=RSV), [4 Maccabees 7.22](https://www.biblegateway.com/passage/?search=4+Maccabees+7&version=RSV), 13.2)[^3] I have darkened the beauty of my soul ([Romans 1.21](https://www.biblegateway.com/passage/?search=Romans+1&version=RSV), [Ephesians 2.3](https://www.biblegateway.com/passage/?search=Ephesians+2&version=RSV), 4.18), and turned my whole mind entirely into dust ([Genesis 2.7](https://www.biblegateway.com/passage/?search=Genesis+2&version=RSV), 3.19, [4 Ezra 7.62–63](https://www.biblegateway.com/passage/?search=2+Esdras+7&version=RSV))
+With the lusts of passion ([Sirach 23.6](https://www.biblegateway.com/passage/?search=Sirach+23&version=RSV), [1 Thessalonians 4.5](https://www.biblegateway.com/passage/?search=1+Thessalonians+4&version=RSV), [2 Peter 2.2](https://www.biblegateway.com/passage/?search=2+Peter+2&version=RSV), 12–16, [Jude 18](https://www.biblegateway.com/passage/?search=Jude&version=RSV), [4 Maccabees 7.22](https://www.biblegateway.com/passage/?search=4+Maccabees+7&version=RSV), 13.2)[^3] I have darkened the beauty of my soul ([Romans 1.21](https://www.biblegateway.com/passage/?search=Romans+1&version=RSV), [Ephesians 2.3](https://www.biblegateway.com/passage/?search=Ephesians+2&version=RSV), 4.18), and turned my whole mind entirely into dust ([Genesis 2.7](https://www.biblegateway.com/passage/?search=Genesis+2&version=RSV), 3.19, [4 Ezra 7.62–63](https://www.biblegateway.com/passage/?search=2+Esdras+7&version=RSV)).
 
 [^3]: 4 Maccabees is an appendix in many Greek Bibles. It is a treatise on the woman with 7 sons martyred in the Maccabean revolt. The whole work argues for godly reason subduing the passions and the benefits that come from this.
 
@@ -282,7 +282,7 @@ Roused to anger by their transgressions, the Lord once rained down fire from Hea
 
 <span id="o2-38"></span>
 (O2.38/61) Have mercy on me, O God, have mercy on me.
-Know and see that I am God, searching out men’s hearts ([Romans 8.27](https://www.biblegateway.com/passage/?search=Romans+8&version=RSV), [Apocalypse 2.23](https://www.biblegateway.com/passage/?search=Revelation+2&version=RSV)) and punishing their thoughts ([Wisdom 11.15](https://www.biblegateway.com/passage/?search=Wisdom+of+Solomon+11&version=RSV)), reproving their actions and burning up their sins; and in My judgment I protect the orphan, the humble and the poor. ([Deuteronomy 10.18](https://www.biblegateway.com/passage/?search=Deuteronomy+10&version=RSV), [Psalm 67.6/68.5](https://www.biblegateway.com/passage/?search=Psalms+68&version=RSV))
+Know and see that I am God, searching out men’s hearts ([Romans 8.27](https://www.biblegateway.com/passage/?search=Romans+8&version=RSV), [Apocalypse 2.23](https://www.biblegateway.com/passage/?search=Revelation+2&version=RSV)) and punishing their thoughts ([Wisdom 11.15](https://www.biblegateway.com/passage/?search=Wisdom+of+Solomon+11&version=RSV)), reproving their actions and burning up their sins; and in My judgment I protect the orphan, the humble and the poor ([Deuteronomy 10.18](https://www.biblegateway.com/passage/?search=Deuteronomy+10&version=RSV), [Psalm 67.6/68.5](https://www.biblegateway.com/passage/?search=Psalms+68&version=RSV)).
 
 *For Ss. Mary And Andrew In Tone Six*
 Holy Mother Mary, pray to God for us.
@@ -308,15 +308,15 @@ Upon the unshaken rock of Thy commandments ([1 Kingdoms/1 Samuel 2.2](https://ww
 
 <span id="o3-1"></span>
 (O3.1/62) Have mercy on me, O God, have mercy on me.
-The Lord, my soul, once rained down fire from Heaven and consumed the land of Sodom. ([Genesis 19.24–25](https://www.biblegateway.com/passage/?search=Genesis+19&version=RSV))
+The Lord, my soul, once rained down fire from Heaven and consumed the land of Sodom ([Genesis 19.24–25](https://www.biblegateway.com/passage/?search=Genesis+19&version=RSV)).
 
 <span id="o3-2"></span>
 (O3.2/63) Have mercy on me, O God, have mercy on me.
-O my soul, flee like Lot to the mountain, and take refuge in Zoar before it is too late. ([Genesis 19.17–23](https://www.biblegateway.com/passage/?search=Genesis+19&version=RSV))
+O my soul, flee like Lot to the mountain, and take refuge in Zoar before it is too late ([Genesis 19.17–23](https://www.biblegateway.com/passage/?search=Genesis+19&version=RSV)).
 
 <span id="o3-3"></span>
 (O3.3/64) Have mercy on me, O God, have mercy on me.
-Flee from the flames, my soul, flee from the burning heat of Sodom, flee from destruction by the fire of God. ([Genesis 19.24](https://www.biblegateway.com/passage/?search=Genesis+19&version=RSV), [Deuteronomy 4.24](https://www.biblegateway.com/passage/?search=Deuteronomy+4&version=RSV), [Hebrews 12.29](https://www.biblegateway.com/passage/?search=Hebrews+12&version=RSV))
+Flee from the flames, my soul, flee from the burning heat of Sodom, flee from destruction by the fire of God ([Genesis 19.24](https://www.biblegateway.com/passage/?search=Genesis+19&version=RSV), [Deuteronomy 4.24](https://www.biblegateway.com/passage/?search=Deuteronomy+4&version=RSV), [Hebrews 12.29](https://www.biblegateway.com/passage/?search=Hebrews+12&version=RSV)).
 
 <span id="o3-4"></span>
 (O3.4/65) Have mercy on me, O God, have mercy on me.
@@ -364,7 +364,7 @@ O wretched soul, thou hast not inherited the blessing of Shem, nor hast thou rec
 
 <span id="o3-13"></span>
 (O3.13/74) Have mercy on me, O God, have mercy on me.
-O my soul, depart from sin, from the land of Haran, and come to the land that Abraham inherited ([Genesis 11.31–12.1](https://www.biblegateway.com/passage/?search=Genesis+11&version=RSV)), which flows with incorruption and eternal life. ([Exodus 3.8](https://www.biblegateway.com/passage/?search=Exodus+3&version=RSV))
+O my soul, depart from sin, from the land of Haran, and come to the land that Abraham inherited ([Genesis 11.31–12.1](https://www.biblegateway.com/passage/?search=Genesis+11&version=RSV)), which flows with incorruption and eternal life ([Exodus 3.8](https://www.biblegateway.com/passage/?search=Exodus+3&version=RSV)).
 
 <span id="o3-14"></span>
 (O3.14/75) Have mercy on me, O God, have mercy on me.
@@ -404,7 +404,7 @@ Do not look back, my soul, and so be turned into a pillar of salt ([Genesis 19.2
 
 <span id="o3-23"></span>
 (O3.23/84) Have mercy on me, O God, have mercy on me.
-Flee, my soul, like Lot from the burning of sin; flee from Sodom and Gomorrah; flee from the flame of every brutish desire. ([Genesis 19.23–29](https://www.biblegateway.com/passage/?search=Genesis+19&version=RSV))
+Flee, my soul, like Lot from the burning of sin; flee from Sodom and Gomorrah; flee from the flame of every brutish desire ([Genesis 19.23–29](https://www.biblegateway.com/passage/?search=Genesis+19&version=RSV)).
 
 <span id="o3-24"></span>
 (O3.24/85) Have mercy on me, O God, have mercy on me.
@@ -437,7 +437,7 @@ The prophet heard of Thy coming, O Lord, and he was afraid ([Habakkuk 3.2](https
 
 <span id="o4-1"></span>
 (O4.1/87) Have mercy on me, O God, have mercy on me.
-O righteous Judge, despise not Thy works; forsake not Thy creation ([Psalm 137/138.8](https://www.biblegateway.com/passage/?search=Psalms+138&version=RSV)). I have sinned as a man, I alone, more than any other man ([1 Timothy 1.15](https://www.biblegateway.com/passage/?search=1+Timothy+1&version=RSV)), O Thou Who lovest mankind ([Titus 3.4](https://www.biblegateway.com/passage/?search=Titus+3&version=RSV)). But as Lord of all Thou hast the power to pardon sins. ([Mark 2.1–12](https://www.biblegateway.com/passage/?search=Mark+2&version=RSV))
+O righteous Judge, despise not Thy works; forsake not Thy creation ([Psalm 137/138.8](https://www.biblegateway.com/passage/?search=Psalms+138&version=RSV)). I have sinned as a man, I alone, more than any other man ([1 Timothy 1.15](https://www.biblegateway.com/passage/?search=1+Timothy+1&version=RSV)), O Thou Who lovest mankind ([Titus 3.4](https://www.biblegateway.com/passage/?search=Titus+3&version=RSV)). But as Lord of all Thou hast the power to pardon sins ([Mark 2.1–12](https://www.biblegateway.com/passage/?search=Mark+2&version=RSV)).
 
 <span id="o4-2"></span>
 (O4.2/88) Have mercy on me, O God, have mercy on me.
@@ -495,11 +495,11 @@ Once he sat upon a throne ([Job 42.17d](https://www.biblegateway.com/passage/?se
 
 <span id="o4-15"></span>
 (O4.15/101) Have mercy on me, O God, have mercy on me.
-A man of great wealth and righteous, abounding in riches and cattle, clothed in royal dignity, in crown and purple robe, Job became suddenly a beggar, stripped of wealth, glory and kingship. ([Job 1](https://www.biblegateway.com/passage/?search=Job+1&version=RSV)–2)
+A man of great wealth and righteous, abounding in riches and cattle, clothed in royal dignity, in crown and purple robe, Job became suddenly a beggar, stripped of wealth, glory and kingship ([Job 1](https://www.biblegateway.com/passage/?search=Job+1&version=RSV)–2).
 
 <span id="o4-16"></span>
 (O4.16/102) Have mercy on me, O God, have mercy on me.
-If he who was righteous and blameless above all men did not escape the snares and pits of the deceiver, what wilt thou do, wretched and sin-loving soul, when some sudden misfortune befalls thee? ([Job 1](https://www.biblegateway.com/passage/?search=Job+1&version=RSV)–2)
+If he who was righteous and blameless above all men did not escape the snares and pits of the deceiver, what wilt thou do, wretched and sin-loving soul, when some sudden misfortune befalls thee ([Job 1](https://www.biblegateway.com/passage/?search=Job+1&version=RSV)–2)?
 
 <span id="o4-17"></span>
 (O4.17/103) Have mercy on me, O God, have mercy on me.
@@ -523,7 +523,7 @@ I am deprived of the bridal chamber, of the wedding and the supper; for want of 
 
 <span id="o4-22"></span>
 (O4.22/108) Have mercy on me, O God, have mercy on me.
-As a chalice, O my Savior, the Church has been granted Thy life-giving side, from which there flows down to us a twofold stream of forgiveness and knowledge ([John 19.34](https://www.biblegateway.com/passage/?search=John+19&version=RSV)), representing the two Covenants, the Old and the New. ([Exodus 24.8](https://www.biblegateway.com/passage/?search=Exodus+24&version=RSV), [Zechariah 9.11](https://www.biblegateway.com/passage/?search=Zechariah+9&version=RSV), [Matthew 26.28](https://www.biblegateway.com/passage/?search=Matthew+26&version=RSV), [Mark 14.24](https://www.biblegateway.com/passage/?search=Mark+14&version=RSV), [Luke 22.20](https://www.biblegateway.com/passage/?search=Luke+22&version=RSV), [1 Corinthians 11.25](https://www.biblegateway.com/passage/?search=1+Corinthians+11&version=RSV))
+As a chalice, O my Savior, the Church has been granted Thy life-giving side, from which there flows down to us a twofold stream of forgiveness and knowledge ([John 19.34](https://www.biblegateway.com/passage/?search=John+19&version=RSV)), representing the two Covenants, the Old and the New ([Exodus 24.8](https://www.biblegateway.com/passage/?search=Exodus+24&version=RSV), [Zechariah 9.11](https://www.biblegateway.com/passage/?search=Zechariah+9&version=RSV), [Matthew 26.28](https://www.biblegateway.com/passage/?search=Matthew+26&version=RSV), [Mark 14.24](https://www.biblegateway.com/passage/?search=Mark+14&version=RSV), [Luke 22.20](https://www.biblegateway.com/passage/?search=Luke+22&version=RSV), [1 Corinthians 11.25](https://www.biblegateway.com/passage/?search=1+Corinthians+11&version=RSV)).
 
 <span id="o4-23"></span>
 (O4.23/109) Have mercy on me, O God, have mercy on me.
@@ -892,7 +892,7 @@ Heaven is closed to thee, my soul, and a famine from God has seized thee: for th
 
 <span id="o7-16"></span>
 (O7.16/165) Have mercy on me, O God, have mercy on me.
-By deliberate choice, my soul, thou hast incurred the guilt of Manasseh, setting up the passions as idols and multiplying abominations ([4 Kingdoms/2 Kings 21.1–18](https://www.biblegateway.com/passage/?search=2+Kings+21&version=RSV), [2 Chronicles 33.1–9](https://www.biblegateway.com/passage/?search=2+Chronicles+33&version=RSV)). But with fervent heart emulate his repentance and acquire compunction (2 Chr 33.10–20, [Prayer of Manasseh 8](https://www.biblegateway.com/passage/?search=Prayer+of+Manasseh&version=RSV)–9)
+By deliberate choice, my soul, thou hast incurred the guilt of Manasseh, setting up the passions as idols and multiplying abominations ([4 Kingdoms/2 Kings 21.1–18](https://www.biblegateway.com/passage/?search=2+Kings+21&version=RSV), [2 Chronicles 33.1–9](https://www.biblegateway.com/passage/?search=2+Chronicles+33&version=RSV)). But with fervent heart emulate his repentance and acquire compunction (2 Chr 33.10–20, [Prayer of Manasseh 8](https://www.biblegateway.com/passage/?search=Prayer+of+Manasseh&version=RSV)–9).
 
 <span id="o7-17"></span>
 (O7.17/166) Have mercy on me, O God, have mercy on me.
@@ -910,7 +910,7 @@ Turn back ([Tobit 13.5–6](https://www.biblegateway.com/passage/?search=Tobit+1
 
 <span id="o7-20"></span>
 (O7.20/169) Have mercy on me, O God, have mercy on me.
-My days have vanished as a dream of one awaking ([Psalm 72.20/73.20](https://www.biblegateway.com/passage/?search=Psalms+73&version=RSV), [Job 20.8](https://www.biblegateway.com/passage/?search=Job+20&version=RSV), [Isaiah 29.8](https://www.biblegateway.com/passage/?search=Isaiah+29&version=RSV)); and so, like Hezekiah, I weep upon my bed, that years may be added to my life. But what Isaiah will come to me, O my soul, except the God of all ([4 Kingdoms/2 Kings 20.1–11](https://www.biblegateway.com/passage/?search=2+Kings+20&version=RSV), Is 38.1–8)? 
+My days have vanished as a dream of one awaking ([Psalm 72.20/73.20](https://www.biblegateway.com/passage/?search=Psalms+73&version=RSV), [Job 20.8](https://www.biblegateway.com/passage/?search=Job+20&version=RSV), [Isaiah 29.8](https://www.biblegateway.com/passage/?search=Isaiah+29&version=RSV)); and so, like Hezekiah, I weep upon my bed, that years may be added to my life. But what Isaiah will come to me, O my soul, except the God of all ([4 Kingdoms/2 Kings 20.1–11](https://www.biblegateway.com/passage/?search=2+Kings+20&version=RSV), [Isaiah 38.1–8](https://www.biblegateway.com/passage/?search=Isaiah+38&version=RSV))? 
 
 *For Ss. Mary And Andrew In Tone Six*
 Holy Mother Mary, pray to God for us.
@@ -929,7 +929,7 @@ Both now and ever, and unto ages of ages. Amen.
 We praise thee, we bless thee, we venerate thee, O Mother of God: for thou hast given birth to One of the undivided Trinity, thy Son and God, and thou hast opened the heavenly places to us on earth.
 
 # Ode Eight
-The hosts of Heaven give Him glory ([Daniel 3.58–59](https://www.biblegateway.com/passage/?search=Daniel+3&version=RSV) LXX): before Him tremble the cherubim and seraphim ([Daniel 3.54](https://www.biblegateway.com/passage/?search=Song%20of%20the%20Three%20Young%20Men&version=RSV) LXX); let everything that has breath ([Psalm 150.6](https://www.biblegateway.com/passage/?search=Psalms+150&version=RSV)) and all creation praise Him, bless Him and exalt Him above all forever[^o8]. (repeat)
+The hosts of Heaven give Him glory ([Daniel 3.58–59](https://www.biblegateway.com/passage/?search=Song%20of%20the%20Three%20Young%20Men&version=RSV) LXX): before Him tremble the cherubim and seraphim ([Daniel 3.54](https://www.biblegateway.com/passage/?search=Song%20of%20the%20Three%20Young%20Men&version=RSV) LXX); let everything that has breath ([Psalm 150.6](https://www.biblegateway.com/passage/?search=Psalms+150&version=RSV)) and all creation praise Him, bless Him and exalt Him above all forever[^o8]. (repeat)
 
 [^o8]: The Biblical Ode 8 is Daniel 3.52–90 (Song of the Three Holy Youth) (found only in the Greek Text).
 
@@ -1266,7 +1266,7 @@ Thou hast shown thyself, O God-inspired Andrew of Crete, as a guide to the Ortho
 
 **Malachi** — [1.10](https://www.biblegateway.com/passage/?search=Malachi+1&version=RSV) *[O4.25](#o4-25)*; [3.5](https://www.biblegateway.com/passage/?search=Malachi+3&version=RSV) *[O8.5](#o8-5)*
 
-**Isaiah** — [1.6](https://www.biblegateway.com/passage/?search=Isaiah+1&version=RSV) *[O7.1](#o7-1)*; [1.18](https://www.biblegateway.com/passage/?search=Isaiah+1&version=RSV) *[O4.17](#o4-17), [O5.14](#o5-14)*; [5.20](https://www.biblegateway.com/passage/?search=Isaiah+5&version=RSV) *[O1.5](#o1-5)*; [25.8](https://www.biblegateway.com/passage/?search=Isaiah+25&version=RSV) *[O3.8](#o3-8)*; [26.9](https://www.biblegateway.com/passage/?search=Isaiah+26&version=RSV) *[O5.1](#o5-1)*; [29.8](https://www.biblegateway.com/passage/?search=Isaiah+29&version=RSV) *[O7.20](#o7-20)*; [35.3–4](https://www.biblegateway.com/passage/?search=Isaiah+35&version=RSV) *[O9.24](#o9-24)*; [40.3](https://www.biblegateway.com/passage/?search=Isaiah+40&version=RSV) *[O9.10](#o9-10)*; [40.6–8](https://www.biblegateway.com/passage/?search=Isaiah+40&version=RSV) *[O4.2](#o4-2)*; [42.16](https://www.biblegateway.com/passage/?search=Isaiah+42&version=RSV) *[O5.1](#o5-1)*; [51.9](https://www.biblegateway.com/passage/?search=Isaiah+51&version=RSV) *[O4.3](#o4-3)*; [51.17](https://www.biblegateway.com/passage/?search=Isaiah+51&version=RSV) *[O4.3](#o4-3)*; [51.23](https://www.biblegateway.com/passage/?search=Isaiah+51&version=RSV) *[O2.10](#o2-10)*; [52.1](https://www.biblegateway.com/passage/?search=Isaiah+52&version=RSV) *[O4.3](#o4-3)*; [59.3](https://www.biblegateway.com/passage/?search=Isaiah+59&version=RSV) *[O4.17](#o4-17)*; [64.6](https://www.biblegateway.com/passage/?search=Isaiah+64&version=RSV) *[O2.14](#o2-14)*
+**Isaiah** — [1.6](https://www.biblegateway.com/passage/?search=Isaiah+1&version=RSV) *[O7.1](#o7-1)*; [1.18](https://www.biblegateway.com/passage/?search=Isaiah+1&version=RSV) *[O4.17](#o4-17), [O5.14](#o5-14)*; [5.20](https://www.biblegateway.com/passage/?search=Isaiah+5&version=RSV) *[O1.5](#o1-5)*; [25.8](https://www.biblegateway.com/passage/?search=Isaiah+25&version=RSV) *[O3.8](#o3-8)*; [26.9](https://www.biblegateway.com/passage/?search=Isaiah+26&version=RSV) *[O5.1](#o5-1)*; [29.8](https://www.biblegateway.com/passage/?search=Isaiah+29&version=RSV) *[O7.20](#o7-20)*; [35.3–4](https://www.biblegateway.com/passage/?search=Isaiah+35&version=RSV) *[O9.24](#o9-24)*; [38.1–8](https://www.biblegateway.com/passage/?search=Isaiah+38&version=RSV) *[O7.20](#o7-20)*; [40.3](https://www.biblegateway.com/passage/?search=Isaiah+40&version=RSV) *[O9.10](#o9-10)*; [40.6–8](https://www.biblegateway.com/passage/?search=Isaiah+40&version=RSV) *[O4.2](#o4-2)*; [42.16](https://www.biblegateway.com/passage/?search=Isaiah+42&version=RSV) *[O5.1](#o5-1)*; [51.9](https://www.biblegateway.com/passage/?search=Isaiah+51&version=RSV) *[O4.3](#o4-3)*; [51.17](https://www.biblegateway.com/passage/?search=Isaiah+51&version=RSV) *[O4.3](#o4-3)*; [51.23](https://www.biblegateway.com/passage/?search=Isaiah+51&version=RSV) *[O2.10](#o2-10)*; [52.1](https://www.biblegateway.com/passage/?search=Isaiah+52&version=RSV) *[O4.3](#o4-3)*; [59.3](https://www.biblegateway.com/passage/?search=Isaiah+59&version=RSV) *[O4.17](#o4-17)*; [64.6](https://www.biblegateway.com/passage/?search=Isaiah+64&version=RSV) *[O2.14](#o2-14)*
 
 **Jeremiah** — [1.5](https://www.biblegateway.com/passage/?search=Jeremiah+1&version=RSV) *[O1.20](#o1-20)*; [2.20](https://www.biblegateway.com/passage/?search=Jeremiah+2&version=RSV) *[O1.16](#o1-16)*; [5.30–31](https://www.biblegateway.com/passage/?search=Jeremiah+5&version=RSV) *[O8.13](#o8-13)*; [6.19](https://www.biblegateway.com/passage/?search=Jeremiah+6&version=RSV) *[O4.27](#o4-27)*; [8.22](https://www.biblegateway.com/passage/?search=Jeremiah+8&version=RSV) *[O4.17](#o4-17)*; [9.1](https://www.biblegateway.com/passage/?search=Jeremiah+9&version=RSV) *[O8.9](#o8-9)*; [18.1–10](https://www.biblegateway.com/passage/?search=Jeremiah+18&version=RSV) *[O1.10](#o1-10)*; [25.8–10](https://www.biblegateway.com/passage/?search=Jeremiah+25&version=RSV) *[O7.18](#o7-18)*; [35/28.2](https://www.biblegateway.com/passage/?search=Jeremiah+35&version=RSV) *[O1.16](#o1-16)*; [45/38.6](https://www.biblegateway.com/passage/?search=Jeremiah+45&version=RSV) *[O8.9](#o8-9)*
 
