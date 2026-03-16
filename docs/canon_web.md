@@ -1,8 +1,7 @@
 ---
 layout: page
-title: |
-    The Great Canon of Repentance
-    — by St Andrew of Crete"
+title: The Great Canon of Repentance
+subtitle: St Andrew of Crete"
 ---
 
 
