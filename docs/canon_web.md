@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Great Canon of Repentance
-subtitle: St Andrew of Crete"
+subtitle: St Andrew of Crete
 ---
 
 
