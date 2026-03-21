@@ -13,4 +13,5 @@ Handouts from the Canon of Repentance Series.
 | [Christopher Introductory Notes](/publish/Series_with_Subdeacon_Methodius/canon/intro.pdf) | Notes Christopher put together for the introduction |
 | [Themes Notes](/publish/Series_with_Subdeacon_Methodius/canon/themes.pdf) | Some notes on themes in the Canon of Repentence |
 | [Christopher's Examples](/publish/Series_with_Subdeacon_Methodius/canon/examples_canon.pdf) | Some examples troparia discussed |
+| [Who's Who in St Andrew's Canon](/publish/Series_with_Subdeacon_Methodius/canon/Whos-Who-in-St-Andrews-Canon) | An exploration of figures in the Canon of Repentance by Protodeacon James Hughes |
 
