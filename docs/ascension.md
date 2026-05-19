@@ -9,5 +9,5 @@ Handouts from the Book of Transfiguration Series.
 |------------------------------|---------------------------|
 |[Scripture and Notes]() [PDF]() | Text and our reflections  |
 |[Hymn Highlights]()     [PDF]() | Highlights from the Hymns |
-|[Kontakion](kontakion-of-the-ascnsion.md) [PDF](publish/Series_with_Subdeacon_Methodius/ascension/kontakion-of-the-ascension.pdf) | St Romanos' Kontakion |
+|[Kontakion](kontakion-of-the-ascension.md) [PDF](publish/Series_with_Subdeacon_Methodius/ascension/kontakion-of-the-ascension.pdf) | St Romanos' Kontakion |
 
