@@ -16,14 +16,14 @@ When you had fulfilled your dispensation for us,
 and united things on earth with things in heaven,  
 you were taken up in glory,[^1]’ Christ our God,  
 in no way parted, but remaining inseparable, you cried to those who loved you,  
-    “I am with you and there is no one against you.”[^2]  
+    *“I am with you and there is no one against you.”*[^2]  
   
 ## Prelude 2  
 When you had sanctified the disciples on the Mount of Olives,  
 you were taken up into heaven, Lord,  
 having promised[^3] them teaching and having cried to them,  
 “I am not parting from you.  
-    I am with you and there is no one against you.”  
+    *I am with you and there is no one against you.”*  
   
 ## 1  
 Abandoning on earth the things of earth,  
@@ -38,7 +38,7 @@ For, from where the Lord has hastened back to heaven,
 there too the One who loves to give has distributed his gifts  
 to his apostles, cherishing them as a father and crying out to them,  
 “I am not parting from you.  
-    I am with you and there is no one against you.”  
+    *I am with you and there is no one against you.”*  
   
 ## 2  
 The One who came down to earth, as he alone knows how,  
@@ -54,7 +54,7 @@ sheltered them, as an eagle the nest which it was warming,[^5]
 and says to the nestlings, “I have sheltered you from all evils.  
 As I have cherished you, do you love me?  
 I am not parting from you.  
-    I am with you and there is no one against you.  
+    *I am with you and there is no one against you.*  
   
 ## 3  
 “High over you, my disciples,  
@@ -70,7 +70,7 @@ upon your souls, illumination, as it is written,
 for I shall pour upon you of my Spirit,[^6] and you will be accepted by me,  
 taught and chosen, faithful[^7] and my own.  
 I am not parting from you.  
-    I am with you and there is no one against you.”  
+    *I am with you and there is no one against you.”*  
   
 ## 4  
 In saying this, the Saviour caused  
@@ -86,7 +86,7 @@ We have been wounded, bound by the most sweet sight of you.
 There is no God but you.[^9] Do not take yourself far away from those who love you.  
 Stay with us[^10] and say to us,  
 ‘I am not parting from you.  
-    I am with you and there is no one against you.’  
+    *I am with you and there is no one against you.’*  
   
 ## 5  
 “We have abandoned our whole way of life [^11]  
@@ -102,7 +102,7 @@ And are you hurrying to leave us as though you had forgotten us?
 Let it not be, O King. Let us not become a laughing-stock for those who hate us.[^15]  
 Let them not cry out to us, ‘Where then is he[^16] who said,  
 “I am not parting from you.  
-    I am with you and there is no one against you”?’  
+    *I am with you and there is no one against you”?’*  
   
 ## 6  
 “Do you despise, Redeemer, and do you reckon nothing  
@@ -118,7 +118,7 @@ And in a word we have all said, ‘We love you more than all.’[^20]
 Then do not leave us. Take us in your arms, you who fill all things.  
 Enfold us and say to us,  
 ‘I am not parting from you.  
-    I am with you and there is no one against you.’”  
+    *I am with you and there is no one against you.’”*  
   
 ## 7  
 When the Saviour had listened to the apostles  
@@ -135,7 +135,7 @@ not a tent which circumscribes, but one which surrounds me;[^23]
 as Isaias cried, ‘God has established heaven as a vault,  
 And dwells there as in a tent,’[^24] he who says to his own,  
 ‘I am not parting from you.  
-    I am with you and there is no one against you.’  
+    *I am with you and there is no one against you.’*  
   
 ## 8  
 “So now, be joyful and radiant,  
@@ -151,7 +151,7 @@ some contain the fathers, others are filled with the just
 and others with the prophets. But your dwelling no one yet knows.  
 I shall prepare it and take you.  
 I am not parting from you.  
-    I am with you and there is no one against you.  
+    *I am with you and there is no one against you.*  
   
 ## 9  
 “Now rise upright,[^27] stand firm[^28]  
@@ -167,7 +167,7 @@ I am really the one you look on, and I have not been changed,[^30]
 as the Scripture said. I am both immortal and like you,  
 over above you and in your midst.  
 I am not parting from you.  
-    I am with you and there is no one against you.”  
+    *I am with you and there is no one against you.”*  
   
 ## 10  
 When Christ had said these things to his friends,  
@@ -183,7 +183,7 @@ Bright air,[^33] prepare yourself for the One who journeys through you.
 Stand open, heavens. Heaven of heavens, receive him,  
 because he is coming to you, he who says to his own,  
 ‘I am not parting from you.  
-    I am with you and there is no one against you.’”  
+    *I am with you and there is no one against you.’”*  
   
 ## 11  
 Those in the height immediately obeyed,  
@@ -199,7 +199,7 @@ for he who was borne bore the cloud which carried him,
 as Mary once. For Scripture prophetically calls her cloud,[^35]  
 she who is guarded by him who dwelt in her, who said to his friends,  
 “I am not parting from you.  
-    I am with you and there is no one against you.”  
+    *I am with you and there is no one against you.”*  
   
 ## 12  
 Not one of the apostles was indifferent.  
@@ -215,7 +215,7 @@ Mount, be lifted up on the wings of the winds,[^37]
 and come to the Father’s bosom. For that is clearly your throne forever,  
 where you dwell and which you do not leave, even as you cry out to those below,  
 ‘I am not parting from you.  
-    I am with you and there is no one against you.’”  
+    *I am with you and there is no one against you.’”*  
       
 ## 13  
 So when the faithful saw all this take place,  
@@ -232,7 +232,7 @@ who cried out, “Why are you standing here? What are you gazing at?
 What do you wish to look on? See, God is seated on his throne.  
 He was our King,[^39] the One who cried out to you,  
 ‘I am not parting from you.  
-    I am with you and there is no one against you.’  
+    *I am with you and there is no one against you.’*  
   
 ## 14  
 “Be amazed no longer, Galileans,  
@@ -248,7 +248,7 @@ ascended, yet did not reach heaven, as it is written,
 but ‘as towards heaven’.[^41] But the God of Enoch and the God of Elias,  
 on ascending to heaven, declared to you,  
 ‘I am not parting from you.  
-    I am with you and there is no one against you.’”  
+    *I am with you and there is no one against you.’”*  
   
 ## 15  
 But immediately they heard these words  
@@ -264,7 +264,7 @@ He was raised, and again angels revealed his rising.[^43]
 He has ascended into heaven, and has revealed to us his divine and radiant  
 assumption through good angels,  
 ‘I am not parting from you.  
-    I am with you and there is no one against you.’  
+    *I am with you and there is no one against you.’*  
   
 ## 16  
 “Let us nerve ourselves then against the deceivers.  
@@ -280,7 +280,7 @@ How was he stolen from the grave? How then from the firmament
 has he sent now to us and declared to us, ‘Do not be afraid of them.  
 They will not overcome you, for I said to you,  
 I am not parting from you.  
-    I am with you and there is no one against you.’”  
+    *I am with you and there is no one against you.’”*  
   
 ## 17  
 With thoughts such as these, the disciples of the Deliverer,  
@@ -296,7 +296,7 @@ For it received the steps of Moses,
 but you, those of God himself. On the former was the law, but on you the grace[^46]  
 which both fashioned Moses and said to us,  
 ‘I am not parting from you.  
-    I am with you and there is no one against you.’  
+    *I am with you and there is no one against you.’*  
 |  
 ## 18  
 “Now too you are far above Lebanon,[^47]  
@@ -312,7 +312,7 @@ and, through us, to your world, at the prayers of her who gave you birth.
 For the foe cannot bear to look on the fair deeds done by us.  
 But drive him from us, you who said,  
 ‘I am not parting from you.  
-    I am with you and there is no one against you.’  
+    *I am with you and there is no one against you.’*  
   
   
 [^1]: 1 Timothy 3.16. This is the key text for the language used in the texts of the feast.  
