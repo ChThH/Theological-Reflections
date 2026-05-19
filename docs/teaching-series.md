@@ -13,6 +13,11 @@ This page has links to material for Subdeacon Methodius and Christopher's teachi
     <p>A series on The Canon of Repentance in preparation for its reading during Lent.</p>
   </div>
 
+  <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem; border-radius: 8px;">
+    <h2><a href="ascension">Q2: Ascension</a></h2>
+    <p>Some notes on the Feast of the Ascension.</p>
+  </div>
+
 </div>
 
 
