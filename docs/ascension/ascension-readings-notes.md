@@ -2,7 +2,7 @@
 
 ## Psalm 23/24
 
-1 The earth is the Lord’s, and the fullness thereof, the world, and all
+> 1 The earth is the Lord’s, and the fullness thereof, the world, and all
 that dwell therein.  
 2 He hath founded it upon the seas, and upon the rivers hath He prepared
 it.  
@@ -22,7 +22,6 @@ mighty in war.
 gates, and the King of Glory shall enter in.  
 10 Who is this King of Glory? The Lord of hosts, He is the King of
 Glory.
-
 
 This is the key text of the Ascension. The hymns draw from it
 extensively and the teachings and hymnography won’t make sense if we
@@ -60,18 +59,16 @@ Now in the Ascension, the hymnology has the holy bodiless powers crying
 the right hand of God in power; even for the angels this is an ineffable
 mystery.
 
-
 # Vespers
 
 ## Isaiah 2.2–3
 
-Thus saith the Lord: In the last days the mountain of the Lord shall be
+> Thus saith the Lord: In the last days the mountain of the Lord shall be
 manifest, and the house of God shall be on the summits of the mountains,
 and it shall be exalted above the hills; and all nations shall come to
 it. And many peoples shall go and say: Come, let us ascend to the
 mountain of the Lord, and to the house of the God of Jacob; and He will
 tell us His way, and we will walk in it.
-
 
 Note the parallels to St Matthew Gospel where Jesus commands his
 disciples to spread the Gospel throughout the world. This is enabled
@@ -83,7 +80,7 @@ age.” (Matthew 28.20)
 
 ## Isaiah 62.10–63.3, 7–9
 
-Thus saith the Lord: Go ye, pass through My gates, make ready My pathway
+> Thus saith the Lord: Go ye, pass through My gates, make ready My pathway
 and make a way for My people, and cast the stones out of the way; lift
 up a standard for the nations. For behold, the Lord hath proclaimed to
 the end of the earth: Say ye to the daughter of Zion: Behold, thy Savior
@@ -106,7 +103,6 @@ Lord Himself saved them, because He loved them and spared them; He
 Himself redeemed them, and took them up, and lifted them up for all the
 days of eternity.
 
-
 Our Lord passes through the gates as the Psalms declare. In so doing, he
 redeems his people. But this also signifies judgment; the Lord is
 terrifying to his enemies, the devils, and the unfaithful who align with
@@ -119,6 +115,7 @@ oppression of demons.
 
 Verse 9 is used in the Proskomedia serves while cutting a cross in the
 underside of the lamb.  
+
 \> Deacon: Crucify, master.  
 \> Priest: At thee crucified, O Christ, tyranny was laid low and the
 power of the enemy was trampled underfoot. Glory to thee, for neither an
@@ -127,7 +124,7 @@ angel nor a man, but the Lord himself hath saved us.
 
 ## Zechariah 14.1, 4, 8–11
 
-Thus saith the Lord: Behold, the day of the Lord cometh, and His feet
+> Thus saith the Lord: Behold, the day of the Lord cometh, and His feet
 shall stand in that day on the Mount of Olives, which lieth opposite
 Jerusalem on the side whence is the dawning of the sun. And in that day
 living water shall come forth out of Jerusalem; half of it toward the
@@ -141,16 +138,14 @@ Gomor, and to the tower of Anameel, and to the gate of the corners, as
 far as the king’s winepresses. They shall dwell therein; and there shall
 be no more anything accursed, and Jerusalem shall dwell securely.
 
-
 Zechariah envisions the kingship of the Lord extending over all the
 world starting from the Mount of Olives.
-
 
 # Another Scripture Passage
 
 ## Daniel 7.9–14
 
-I kept watching  
+> I kept watching  
 until thrones were set  
   and the Ancient of Days sat  
 and his clothing was white like snow,  
@@ -177,26 +172,24 @@ His authority is an everlasting authority,
   which will not pass away,  
 and his kingship will not be destroyed.
 
-
 There is a lot here, but note that the Son of Man came to the Ancient of
 Days. When Christ in his trial before the Sanhedrin states that they
 will see him as the Son of Man sitting in power with the Father (Matthew
 26.64, Mark 14.62, Luke 22.69–70), this is the passage he is referring
 to.
 
-
 # Orthros
 
 ## Prokeimenon: Psalm 46.6 & 2 / 47.5 & 1
 
-God hath ascended in jubilation, the Lord with the voice of the
+> God hath ascended in jubilation, the Lord with the voice of the
 trumpet.  
 Clap your hands, all ye nations; shout unto God with a voice of
 rejoicing.
 
 ### Psalm 46
 
-*For the End: A Psalm Concerning the Sons of Kore.*  
+> *For the End: A Psalm Concerning the Sons of Kore.*  
 2 Clap your hands, all ye nations; shout unto God with a voice of
 rejoicing,  
 3 For the Lord Most High is terrible, a great King over all the earth.  
@@ -211,17 +204,15 @@ trumpet.
 10 The princes of the peoples are gathered together with the God of
 Abraham; for God’s mighty ones of the earth are greatly exalted.
 
-
 The Orthros Prokeimenon compliments the themes with of the Gospel
 passage. The prokeimenon should call to mind the entire Psalm. Here God
 is presented as a king, subduing his (and our) enemies and raising his
 people to be the mighty ones of the earth who are lifted up/magnified
 with him.
 
-
 ## Mark 16.9–20
 
-Now when Christ rose early on the first day of the week, Jesus appeared
+> Now when Christ rose early on the first day of the week, Jesus appeared
 first to Mary Magdalene, from whom He had cast out seven demons. She
 went and told those who had been with Him, as they mourned and wept. But
 when they heard that He was alive and had been seen by her, they would
@@ -242,23 +233,21 @@ and sat down at the right hand of God. And they went forth and preached
 everywhere, while the Lord worked with them and confirmed the message by
 the signs that attended it. Amen.
 
-
 The longer ending of St Mark’s Gospel explains the Ascension as Jesus
 sitting at the right hand of God. This enthronement of Christ enabled
 the apostles to boldly preach the Gospel, as Christ does not abandon us
 but gives the Holy Spirit at Pentecost.
 
-
 # Divine Liturgy
 
 ## Prokeimenon: Psalm 56.8 & 12 / 57.7 & 11
 
-Be Thou exalted above the heavens, O God, and let Thy glory be over all
+> Be Thou exalted above the heavens, O God, and let Thy glory be over all
 the earth. My heart is ready, O God.
 
 ### Psalm 56
 
-*For the End: Destroy not. By David; for a Pillar Inscription. When He
+> *For the End: Destroy not. By David; for a Pillar Inscription. When He
 Fled from the Presence of Saul to the Cave.*  
 2 Have mercy on me, O God, have mercy on me, for my soul trusted in
 Thee.  
@@ -288,15 +277,13 @@ unto the clouds.
 15 Be Thou exalted above the heavens, O God, and Thy glory above all the
 earth.
 
-
 This Psalm relates the works of the Lord for us. He saves us from our
 enemies and is magnified to the heavens and exalted (lifted up) above
 the heavens.
 
-
 ## Acts 1.1–12
 
-In the first book, O Theophilus, I have dealt with all that Jesus began
+> In the first book, O Theophilus, I have dealt with all that Jesus began
 to do and teach, until the day when He was taken up, after He had given
 commandment through the Holy Spirit to the Apostles whom He had chosen.
 To them He presented Himself alive after His passion by many proofs,
@@ -318,7 +305,6 @@ looking into heaven? This Jesus, who was received up from you into
 heaven, will come in the same way as you behold him going into heaven.”
 Then they returned to Jerusalem from the mount called Olivet, which is
 near Jerusalem, a Sabbath’s journey off.
-
 
 St John Chrysostom writes:  
 \> This is another indication that he ascended to heaven. Not fire, as
@@ -349,10 +335,9 @@ desired to hear. And concerning the judgment he said again that he will
 come in this same way upon a cloud.  
 \> *Homilies on the Acts of the Apostles* 2
 
-
 ## Luke 24.36-53
 
-At that time, Jesus, risen from the dead, stood in the midst of His
+> At that time, Jesus, risen from the dead, stood in the midst of His
 disciples and said to them, “Peace be to you.” But they were startled
 and frightened, and supposed that they saw a spirit. And He said to
 them, “Why are you troubled, and why do questionings rise in your
@@ -376,7 +361,6 @@ hands, He blessed them. While He blessed them, He was parted from them,
 and was carried up into heaven. And they worshipped Him, and returned to
 Jerusalem with great joy, and were continually in the temple praising
 and blessing God. Amen.
-
 
 St Bede the Venerable emphasizes the nature of obedience in receiving
 the blessing of Christ:  
