@@ -11,6 +11,7 @@ notes/dormition.young-adults.speakers-outline.md
 **.DS_Store
 .DS_Store
 docs/publish/.DS_Store
+docs/tmp/
 
 # Jekyll
 _site/
