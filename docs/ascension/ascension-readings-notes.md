@@ -23,7 +23,6 @@ gates, and the King of Glory shall enter in.
 10 Who is this King of Glory? The Lord of hosts, He is the King of
 Glory.
 
-<div class="commentary">
 
 This is the key text of the Ascension. The hymns draw from it
 extensively and the teachings and hymnography won’t make sense if we
@@ -61,7 +60,6 @@ Now in the Ascension, the hymnology has the holy bodiless powers crying
 the right hand of God in power; even for the angels this is an ineffable
 mystery.
 
-</div>
 
 # Vespers
 
@@ -74,7 +72,6 @@ it. And many peoples shall go and say: Come, let us ascend to the
 mountain of the Lord, and to the house of the God of Jacob; and He will
 tell us His way, and we will walk in it.
 
-<div class="commentary">
 
 Note the parallels to St Matthew Gospel where Jesus commands his
 disciples to spread the Gospel throughout the world. This is enabled
@@ -83,7 +80,6 @@ Pentecost. The Ascension is not Christ leaving us, but bringing us up
 into heaven with himself. “Lo, I am with you always to the end of the
 age.” (Matthew 28.20)
 
-</div>
 
 ## Isaiah 62.10–63.3, 7–9
 
@@ -110,7 +106,6 @@ Lord Himself saved them, because He loved them and spared them; He
 Himself redeemed them, and took them up, and lifted them up for all the
 days of eternity.
 
-<div class="commentary">
 
 Our Lord passes through the gates as the Psalms declare. In so doing, he
 redeems his people. But this also signifies judgment; the Lord is
@@ -129,7 +124,6 @@ underside of the lamb.
 power of the enemy was trampled underfoot. Glory to thee, for neither an
 angel nor a man, but the Lord himself hath saved us.
 
-</div>
 
 ## Zechariah 14.1, 4, 8–11
 
@@ -147,12 +141,10 @@ Gomor, and to the tower of Anameel, and to the gate of the corners, as
 far as the king’s winepresses. They shall dwell therein; and there shall
 be no more anything accursed, and Jerusalem shall dwell securely.
 
-<div class="commentary">
 
 Zechariah envisions the kingship of the Lord extending over all the
 world starting from the Mount of Olives.
 
-</div>
 
 # Another Scripture Passage
 
@@ -185,7 +177,6 @@ His authority is an everlasting authority,
   which will not pass away,  
 and his kingship will not be destroyed.
 
-<div class="commentary">
 
 There is a lot here, but note that the Son of Man came to the Ancient of
 Days. When Christ in his trial before the Sanhedrin states that they
@@ -193,7 +184,6 @@ will see him as the Son of Man sitting in power with the Father (Matthew
 26.64, Mark 14.62, Luke 22.69–70), this is the passage he is referring
 to.
 
-</div>
 
 # Orthros
 
@@ -221,7 +211,6 @@ trumpet.
 10 The princes of the peoples are gathered together with the God of
 Abraham; for God’s mighty ones of the earth are greatly exalted.
 
-<div class="commentary">
 
 The Orthros Prokeimenon compliments the themes with of the Gospel
 passage. The prokeimenon should call to mind the entire Psalm. Here God
@@ -229,7 +218,6 @@ is presented as a king, subduing his (and our) enemies and raising his
 people to be the mighty ones of the earth who are lifted up/magnified
 with him.
 
-</div>
 
 ## Mark 16.9–20
 
@@ -254,14 +242,12 @@ and sat down at the right hand of God. And they went forth and preached
 everywhere, while the Lord worked with them and confirmed the message by
 the signs that attended it. Amen.
 
-<div class="commentary">
 
 The longer ending of St Mark’s Gospel explains the Ascension as Jesus
 sitting at the right hand of God. This enthronement of Christ enabled
 the apostles to boldly preach the Gospel, as Christ does not abandon us
 but gives the Holy Spirit at Pentecost.
 
-</div>
 
 # Divine Liturgy
 
@@ -302,13 +288,11 @@ unto the clouds.
 15 Be Thou exalted above the heavens, O God, and Thy glory above all the
 earth.
 
-<div class="commentary">
 
 This Psalm relates the works of the Lord for us. He saves us from our
 enemies and is magnified to the heavens and exalted (lifted up) above
 the heavens.
 
-</div>
 
 ## Acts 1.1–12
 
@@ -335,7 +319,6 @@ heaven, will come in the same way as you behold him going into heaven.”
 Then they returned to Jerusalem from the mount called Olivet, which is
 near Jerusalem, a Sabbath’s journey off.
 
-<div class="commentary">
 
 St John Chrysostom writes:  
 \> This is another indication that he ascended to heaven. Not fire, as
@@ -366,7 +349,6 @@ desired to hear. And concerning the judgment he said again that he will
 come in this same way upon a cloud.  
 \> *Homilies on the Acts of the Apostles* 2
 
-</div>
 
 ## Luke 24.36-53
 
@@ -395,7 +377,6 @@ and was carried up into heaven. And they worshipped Him, and returned to
 Jerusalem with great joy, and were continually in the temple praising
 and blessing God. Amen.
 
-<div class="commentary">
 
 St Bede the Venerable emphasizes the nature of obedience in receiving
 the blessing of Christ:  
@@ -467,4 +448,3 @@ and reigns with God the Father almighty and with the Holy Spirit forever
 and ever. Amen.  
 \> Sermon 73.3-4.16
 
-</div>
