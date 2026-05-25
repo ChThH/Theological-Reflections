@@ -297,7 +297,7 @@ but you, those of God himself. On the former was the law, but on you the grace[^
 which both fashioned Moses and said to us,  
 ‘I am not parting from you.  
     *I am with you and there is no one against you.’*  
-|  
+  
 ## 18  
 “Now too you are far above Lebanon,[^47]  
 Thabor and Hermon are less than you,[^48]  
