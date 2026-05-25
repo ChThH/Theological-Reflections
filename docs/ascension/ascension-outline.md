@@ -54,11 +54,13 @@ Read Luke 24.36--53 and Acts 1.1--12.
   - parallels Matthew
   - Christ does not leave us but is with us
   - Note refrain from kontakia
+
 - Isaiah 62--63
   - Enthronement of Christ
   - St Mark notes this in chapter 16
   - But Ascension is also judgment to the unfaithful
     - Hymns: "Go and proclaim a warning"
+
 - Zechariah
   - Healing from Mount Olives
 
@@ -73,13 +75,13 @@ Probably the ones that speak to the angels' astonishment at seeing a human enthr
 ## Question 7
 *This image comes up a few times, doesn't it? What are some other examples and some Scriptural basis?*
 
-> *Festal Troparion*
-> Today the hosts on high, beholding our nature in the Heavens, marvel at the strange manner of its  ascent, and, being perplexed, they say one to another: Who is this that cometh? And when they  saw that it was their own Master, they were commanded to lift up the heavenly gates. With them  we ceaselessly praise Thee, Who again shalt come from thence in the flesh, as the Judge of all and Almighty God.
+> *Festal Troparion*\
+> Today the hosts on high, beholding our nature in the Heavens, marvel at the strange manner of its ascent, and, being perplexed, they say one to another: Who is this that cometh? And when they saw that it was their own Master, they were commanded to lift up the heavenly gates. With them we ceaselessly praise Thee, Who again shalt come from thence in the flesh, as the Judge of all and Almighty God.
 
-> *Psalm 79.2 (80.1)*
+> *Psalm 79.2 (80.1)*\
 > You who are seated/enthroned on the cherubim, manifest yourself!
 
-> *Psalm 98.1 (99.1)*
+> *Psalm 98.1 (99.1)*\
 > The LORD reigns; let the peoples tremble! He sits enthroned upon the cherubim, let the earth quake!
 
 Also see Ezekiel 1: the vision of the chariot throne of God.
@@ -89,16 +91,16 @@ Also see Ezekiel 1: the vision of the chariot throne of God.
 
 And even before that we have the Doxasticon, Aposticha, and Apolytikon:
 
-> *Doxasticon for the Ascension (Aposticha)*
+> *Doxasticon for the Ascension (Aposticha)*\
 > God is gone up in jubilation, the Lord with the voice of the trumpet, to raise the fallen image of Adam, and to send the Comforting Spirit to sanctify our souls.
 > 
-> *Aposticha*
+> *Aposticha*\
 > Beholding Thee being taken up from the Mount of Olives, O Christ, the Powers cried one to another: Who is this? And it was said unto them: This is He that is strong and mighty. This is He that is mighty in war. This is truly the King of Glory. And wherefore are His garments red? Because He cometh from Bosor, which is the flesh. But Thou Thyself, being God, didst sit at the right hand of majesty and sentest unto us the Holy Spirit, that He might guide and save our souls
 > 
-> *Apolytikion of the Ascension in Tone Four*
+> *Apolytikion of the Ascension in Tone Four*\
 > Thou hast ascended in glory, O Christ our God, and gladdened Thy Disciples with the promise of the Holy Spirit, making them confident through the blessing that Thou art the Son of God, and Deliverer of the world. 
 > 
-> *Kathismata*
+> *Kathismata*\
 > As the angels, O Savior, wondered at Thy strange elevation, and the Disciples were amazed at Thy dread rising, Thou didst ascend in glory, being God, and the gates were lifted up for Thee. Wherefore, the heavenly powers were surprised, shouting, Glory to Thy condescension, O Savior; glory to Thy reign; glory to Thine Ascension, O Thou Who alone art the Lover of mankind.
 >
 > Glory to the Father, and to the Son, and to the Holy Spirit.
@@ -112,17 +114,17 @@ And even before that we have the Doxasticon, Aposticha, and Apolytikon:
 ## Question 9
 *Well I begin to see your last point that we have a more sure faith. Christ is Enthroned on high and we with him! But flesh that out a bit more; what does that mean for us?*
 
-> *Synaxarion*
+> *Synaxarion*\
 > Thou didst sit at the right hand of the Father, O Word, 
 > Granting Thine initiates a faith far more steadfast. 
 
-> *Ephesians 4.7--10 quoting Psalm 67/68*
+> *Ephesians 4.7--10 quoting Psalm 67/68*\
 > But grace was given to each one of us according to the measure of Christ’s gift. Therefore it says,
 >> “When he ascended on high he led a host of captives,
 >>    and he gave gifts to men.”
 > (In saying, “He ascended,” what does it mean but that he had also descended into the lower regions, the earth? He who descended is the one who also ascended far above all the heavens, that he might fill all things.)
 
-> *1 Peter 1.3--12*
+> *1 Peter 1.3--12*\
 > Blessed be the God and Father of our Lord Jesus Christ! According to his great mercy, he has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead, to an inheritance that is imperishable, undefiled, and unfading, kept in heaven for you, who by God’s power are being guarded through faith for a salvation ready to be revealed in the last time. In this you rejoice, though now for a little while, if necessary, you have been grieved by various trials, so that the tested genuineness of your faith—more precious than gold that perishes though it is tested by fire—may be found to result in praise and glory and honor at the revelation of Jesus Christ. Though you have not seen him, you love him. Though you do not now see him, you believe in him and rejoice with joy that is inexpressible and filled with glory, obtaining the outcome of your faith, the salvation of your souls.
 > 
 > Concerning this salvation, the prophets who prophesied about the grace that was to be yours searched and inquired carefully, inquiring what person or time the Spirit of Christ in them was indicating when he predicted the sufferings of Christ and the subsequent glories. It was revealed to them that they were serving not themselves but you, in the things that have now been announced to you through those who preached the good news to you by the Holy Spirit sent from heaven, things into which angels long to look.
@@ -136,10 +138,10 @@ Jesus has enthroned humanity at the right hand of God the Father, and reigns on 
 
 Well normally this is where we say "If we've presented this well, that is what we desired, but if we've were only middling then that's best we can do." But I think a more fitting ending is to say:
 
-What else can we do but:  
-> Let us on earth now keep festival like the Angels’ host,
-> and let us cry out their hymn unto God, 
-> Who is seated on the Throne of Majesty:
-> Holy art Thou God the Father in Heaven’s heights; 
-> Holy art Thou, co-eternal and timeless Word;
-> and All-holy Spirit, Holy art Thou. 
+What else can we do but sing:  
+> Let us on earth now keep festival like the Angels’ host,\
+> and let us cry out their hymn unto God,\ 
+> Who is seated on the Throne of Majesty:\
+> Holy art Thou God the Father in Heaven’s heights;\ 
+> Holy art Thou, co-eternal and timeless Word;\
+> and All-holy Spirit, Holy art Thou.\ 
