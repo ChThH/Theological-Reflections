@@ -6,6 +6,8 @@ mainfont: Libertinus Serif
 pandoc: pandoc kontakion-of-the-ascension.md -o kontakion-of-the-ascension.pdf -o kontakion-of-the-ascension.html  
 keywords:   
 ---  
+
+St Romanos' Kontakion of the Ascension along with the introduction and footnotes is found in *On the Life of Christ: Kontakia* translated by Archimandrite Ephrem Lash. 
   
 # Intro  
 This kontakion falls into three main sections. The first, stanzas 1-9, concentrates on the distress of the apostles at Christ’s imminent departure and his reply. In the second, stanzas 10-12, we have the Ascension itself and in the third, stanzas 13-18, we return to earth with the angels and their message to the apostles, ending with the return of the latter in joy to Jerusalem. So the movement is from earth to heaven and back again to earth. The first prelude and first stanza are still used: in the Pentecostarion for the feast of the Ascension. It is the only kontakion in the manuscripts which is given for the feast, a fact which indicates its popularity. No other could replace it, or even rival it. The sources are the account of the Ascension in Acts 1.9-13 and Luke 24.50-3.  
