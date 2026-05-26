@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Transfiguration
-time: Q3 2025 (Transfiguration)
+title: Ascension
+time: Q2 2026 (Ascension)
 ---
-Handouts from the Book of Transfiguration Series.
+Handouts from the Book of Ascension Talk (2025-05-24).
 
 |Title                         | Description               |
 |------------------------------|---------------------------|
