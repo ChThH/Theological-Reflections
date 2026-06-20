@@ -1,6 +1,8 @@
-# Key Psalm
+# Ascension Scripture Readings with Notes
 
-## Psalm 23/24
+## Key Psalm
+
+### Psalm 23/24
 
 > 1 The earth is the Lord’s, and the fullness thereof, the world, and all
 that dwell therein.  
@@ -59,9 +61,9 @@ Now in the Ascension, the hymnology has the holy bodiless powers crying
 the right hand of God in power; even for the angels this is an ineffable
 mystery.
 
-# Vespers
+## Vespers
 
-## Isaiah 2.2–3
+### Isaiah 2.2–3
 
 > Thus saith the Lord: In the last days the mountain of the Lord shall be
 manifest, and the house of God shall be on the summits of the mountains,
@@ -78,7 +80,7 @@ into heaven with himself. “Lo, I am with you always to the end of the
 age.” (Matthew 28.20)
 
 
-## Isaiah 62.10–63.3, 7–9
+### Isaiah 62.10–63.3, 7–9
 
 > Thus saith the Lord: Go ye, pass through My gates, make ready My pathway
 and make a way for My people, and cast the stones out of the way; lift
@@ -122,7 +124,7 @@ power of the enemy was trampled underfoot. Glory to thee, for neither an
 angel nor a man, but the Lord himself hath saved us.
 
 
-## Zechariah 14.1, 4, 8–11
+### Zechariah 14.1, 4, 8–11
 
 > Thus saith the Lord: Behold, the day of the Lord cometh, and His feet
 shall stand in that day on the Mount of Olives, which lieth opposite
@@ -141,9 +143,9 @@ be no more anything accursed, and Jerusalem shall dwell securely.
 Zechariah envisions the kingship of the Lord extending over all the
 world starting from the Mount of Olives.
 
-# Another Scripture Passage
+## Another Scripture Passage
 
-## Daniel 7.9–14
+### Daniel 7.9–14
 
 > I kept watching  
 until thrones were set  
@@ -178,16 +180,16 @@ will see him as the Son of Man sitting in power with the Father (Matthew
 26.64, Mark 14.62, Luke 22.69–70), this is the passage he is referring
 to.
 
-# Orthros
+## Orthros
 
-## Prokeimenon: Psalm 46.6 & 2 / 47.5 & 1
+### Prokeimenon: Psalm 46.6 & 2 / 47.5 & 1
 
 > God hath ascended in jubilation, the Lord with the voice of the
 trumpet.  
 Clap your hands, all ye nations; shout unto God with a voice of
 rejoicing.
 
-### Psalm 46
+#### Psalm 46
 
 > *For the End: A Psalm Concerning the Sons of Kore.*  
 2 Clap your hands, all ye nations; shout unto God with a voice of
@@ -210,7 +212,7 @@ is presented as a king, subduing his (and our) enemies and raising his
 people to be the mighty ones of the earth who are lifted up/magnified
 with him.
 
-## Mark 16.9–20
+### Mark 16.9–20
 
 > Now when Christ rose early on the first day of the week, Jesus appeared
 first to Mary Magdalene, from whom He had cast out seven demons. She
@@ -238,14 +240,14 @@ sitting at the right hand of God. This enthronement of Christ enabled
 the apostles to boldly preach the Gospel, as Christ does not abandon us
 but gives the Holy Spirit at Pentecost.
 
-# Divine Liturgy
+## Divine Liturgy
 
-## Prokeimenon: Psalm 56.8 & 12 / 57.7 & 11
+### Prokeimenon: Psalm 56.8 & 12 / 57.7 & 11
 
 > Be Thou exalted above the heavens, O God, and let Thy glory be over all
 the earth. My heart is ready, O God.
 
-### Psalm 56
+#### Psalm 56
 
 > *For the End: Destroy not. By David; for a Pillar Inscription. When He
 Fled from the Presence of Saul to the Cave.*  
@@ -281,7 +283,7 @@ This Psalm relates the works of the Lord for us. He saves us from our
 enemies and is magnified to the heavens and exalted (lifted up) above
 the heavens.
 
-## Acts 1.1–12
+### Acts 1.1–12
 
 > In the first book, O Theophilus, I have dealt with all that Jesus began
 to do and teach, until the day when He was taken up, after He had given
@@ -335,7 +337,7 @@ desired to hear. And concerning the judgment he said again that he will
 come in this same way upon a cloud.  
 > *Homilies on the Acts of the Apostles* 2
 
-## Luke 24.36-53
+### Luke 24.36-53
 
 > At that time, Jesus, risen from the dead, stood in the midst of His
 disciples and said to them, “Peace be to you.” But they were startled
