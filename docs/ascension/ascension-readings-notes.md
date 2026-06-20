@@ -116,8 +116,8 @@ oppression of demons.
 Verse 9 is used in the Proskomedia serves while cutting a cross in the
 underside of the lamb.  
 
-\> Deacon: Crucify, master.  
-\> Priest: At thee crucified, O Christ, tyranny was laid low and the
+> Deacon: Crucify, master.  
+> Priest: At thee crucified, O Christ, tyranny was laid low and the
 power of the enemy was trampled underfoot. Glory to thee, for neither an
 angel nor a man, but the Lord himself hath saved us.
 
@@ -307,7 +307,7 @@ Then they returned to Jerusalem from the mount called Olivet, which is
 near Jerusalem, a Sabbath’s journey off.
 
 St John Chrysostom writes:  
-\> This is another indication that he ascended to heaven. Not fire, as
+> This is another indication that he ascended to heaven. Not fire, as
 in the case of Elijah, nor a fiery chariot, but “a cloud took him.” This
 was a symbol of heaven, according to the words of the prophet, “who
 makes the clouds his chariot,” \[Psalm 104.3 (103.4 LXX)\] meaning the
@@ -315,7 +315,7 @@ Father himself. Because of this he says, “on a cloud,” implying, “in the
 symbol of the divine power,” for no other power could dwell upon a
 cloud. Listen again to what another prophet says: “The Lord is riding
 upon a swift cloud.” \[Isaiah 19.1\]  
-\> *Homilies on the Acts of the Apostles* 2
+> *Homilies on the Acts of the Apostles* 2
 
 This cloud language is all over the Scriptures (Exodus 13.21–22, 2
 Kingdoms (Samuel) 22.11–12, 2 Chronicles (Supplements) 5.13–14, Psalm
@@ -328,12 +328,12 @@ but the cloud shows him to be the Most High God.
 
 But cloud often indicates judgment to God’s enemies; St John
 continues:  
-\> Now, as they watched, their conceptions were elevated. He gave them
+> Now, as they watched, their conceptions were elevated. He gave them
 not merely a subtle hint of the nature of his second coming. For this
 phrase—“thus he will come”—means with the body. This is what they
 desired to hear. And concerning the judgment he said again that he will
 come in this same way upon a cloud.  
-\> *Homilies on the Acts of the Apostles* 2
+> *Homilies on the Acts of the Apostles* 2
 
 ## Luke 24.36-53
 
@@ -364,7 +364,7 @@ and blessing God. Amen.
 
 St Bede the Venerable emphasizes the nature of obedience in receiving
 the blessing of Christ:  
-\> “Then he led them out to Bethany, and lifting up his hands, he
+> “Then he led them out to Bethany, and lifting up his hands, he
 blessed them.” Our Redeemer appeared in the flesh to take away sins,
 remove what humans deserved because of the first curse, and grant
 believers an inheritance of everlasting blessing. He rightly concluded
@@ -377,10 +377,10 @@ The Lord himself was made obedient to his Father even unto death, so
 that he might restore the lost grace of blessing to the world. He gives
 the blessing of heavenly life only to those who strive in the holy
 church to comply with the divine commands.  
-\> *Homilies on the Gospels* 11.15.4
+> *Homilies on the Gospels* 11.15.4
 
 Blessed Augustine writes:  
-\> You heard what came to our ears just now from the Gospel: “Lifting up
+> You heard what came to our ears just now from the Gospel: “Lifting up
 his hands, he blessed them. And it happened, while he was blessing them
 he withdrew from them, and was carried up to heaven.” Who was carried up
 to heaven? The Lord Christ was. Who is the Lord Christ? He is the Lord
@@ -398,10 +398,10 @@ have.” Let us believe this, brothers and sisters, and if we have
 difficulty in meeting the arguments of the philosophers, let us hold on
 to what was demonstrated in the Lord’s case without any difficulty of
 faith. Let them chatter, but let us believe.  
-\> Sermon 242.6.15
+> Sermon 242.6.15
 
 St Leo the Great comments:  
-\> Dearly beloved, through all this time between the resurrection of the
+> Dearly beloved, through all this time between the resurrection of the
 Lord and his ascension, the providence of God thought of this, taught
 this and penetrated their eyes and heart. He wanted them to recognize
 the Lord Jesus Christ as truly risen, who was truly born, truly suffered
@@ -410,16 +410,16 @@ all the disciples who were frightened by his death on the cross and were
 doubtful of his resurrection. The result was they were not only
 afflicted with sadness but also were filled with “great joy” when the
 Lord went into the heights of heaven.  
-\>  
-\> It was certainly a great and indescribable source of joy when, in the
+>  
+> It was certainly a great and indescribable source of joy when, in the
 sight of the heavenly multitudes, the nature of our human race ascended
 over the dignity of all heavenly creatures. It passed the angelic orders
 and was raised beyond the heights of archangels. In its ascension, our
 human race did not stop at any other height until this same nature was
 received at the seat of the eternal Father. Our human nature, united
 with the divinity of the Son, was on the throne of his glory.  
-\>  
-\> The ascension of Christ is our elevation. Hope for the body is also
+>  
+> The ascension of Christ is our elevation. Hope for the body is also
 invited where the glory of the Head preceded us. Let us exult, dearly
 beloved, with worthy joy and be glad with a holy thanksgiving. Today we
 not only are established as possessors of paradise, but we have even
@@ -430,5 +430,5 @@ God placed those whom the violent enemy threw down from the happiness of
 our first dwelling at the right hand of the Father. The Son of God lives
 and reigns with God the Father almighty and with the Holy Spirit forever
 and ever. Amen.  
-\> Sermon 73.3-4.16
+> Sermon 73.3-4.16
 
