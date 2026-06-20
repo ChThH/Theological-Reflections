@@ -1,4 +1,8 @@
-# Ascension Scripture Readings with Notes
+---
+title: Ascension Scripture Readings with Notes
+created: 2026-04-25
+updated: 
+---
 
 ## Key Psalm
 
