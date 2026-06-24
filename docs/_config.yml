@@ -24,4 +24,9 @@ collections:
   articles_on_feasts:
     output: true
     permalink: /Articles-on-Feasts/:name/
+  docs:
+    output: true
+feed:
+  collections:
+    - docs
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
