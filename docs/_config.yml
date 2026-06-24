@@ -5,12 +5,13 @@ minima:
   skin: solarized
   social_links:
     - { platform: github,  user_url: "https://github.com/ChThH" }
-#author:
-  #name: Christopher Hall
+author:
+  name: Christopher Hall
   #email: "chthh@example.com"
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-- jekyll-optional-front-matter
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-optional-front-matter
+  - jekyll-feed
 header_pages: 
   - index.md
   - teaching-series.md
