@@ -1,0 +1,260 @@
+@charset "utf-8";
+
+// Gruvbox skin
+// ============
+// Based on the Gruvbox color scheme by morhetz
+// <https://github.com/morhetz/gruvbox>
+//
+// This style sheet implements three options for the minima.skin setting:
+// "gruvbox-light" for light mode, "gruvbox-dark" for dark mode, and
+// "gruvbox" for light or dark mode depending on user preference.
+
+$grv-is-auto: true !default;
+$grv-is-dark: false !default;
+
+
+// Color palette
+// -------------
+// Dark backgrounds
+$grv-dark0-hard:   #1d2021;
+$grv-dark0:        #282828;
+$grv-dark0-soft:   #32302f;
+$grv-dark1:        #3c3836;
+$grv-dark2:        #504945;
+$grv-dark3:        #665c54;
+$grv-dark4:        #7c6f64;
+
+// Light backgrounds
+$grv-light0-hard:  #f9f5d7;
+$grv-light0:       #fbf1c7;
+$grv-light0-soft:  #f2e5bc;
+$grv-light1:       #ebdbb2;
+$grv-light2:       #d5c4a1;
+$grv-light3:       #bdae93;
+$grv-light4:       #a89984;
+
+// Accent colors (same in light and dark)
+$grv-red:          #cc241d;
+$grv-green:        #98971a;
+$grv-yellow:       #d79921;
+$grv-blue:         #458588;
+$grv-purple:       #b16286;
+$grv-aqua:         #689d6a;
+$grv-orange:       #d65d0e;
+$grv-gray:         #928374;
+
+// Bright variants
+$grv-bright-red:   #fb4934;
+$grv-bright-green: #b8bb26;
+$grv-bright-yellow:#fabd2f;
+$grv-bright-blue:  #83a598;
+$grv-bright-purple:#d3869b;
+$grv-bright-aqua:  #8ec07c;
+$grv-bright-orange:#fe8019;
+
+
+// Mixed / derived colors
+// ----------------------
+// Light mode mixes
+$grv-light-mix1: mix($grv-light4, $grv-light0);     // subtle border
+$grv-light-mix2: mix($grv-blue,   $grv-dark4);      // brand accent
+$grv-light-mix3: mix($grv-light1, $grv-light0);     // code background
+$grv-light-mix4: mix($grv-light2, $grv-light0);     // brand-color-light
+
+// Dark mode mixes
+$grv-dark-mix1:  mix($grv-dark3,  $grv-dark0);      // subtle border
+$grv-dark-mix2:  mix($grv-bright-blue, $grv-light4); // brand accent
+$grv-dark-mix3:  mix($grv-dark1,  $grv-dark0);      // code background
+$grv-dark-mix4:  mix($grv-dark2,  $grv-dark0);      // brand-color-light
+
+
+// Mode selection (light defaults)
+// --------------------------------
+$grv-bg:         $grv-light0;
+$grv-bg-soft:    $grv-light0-soft;
+$grv-bg-1:       $grv-light1;
+$grv-bg-2:       $grv-light2;
+$grv-fg:         $grv-dark0;
+$grv-fg-1:       $grv-dark1;
+$grv-fg-dim:     $grv-dark4;
+$grv-mix1:       $grv-light-mix1;
+$grv-mix2:       $grv-light-mix2;
+$grv-mix3:       $grv-light-mix3;
+$grv-mix4:       $grv-light-mix4;
+$grv-fg-dimmed:  darken($grv-light4, 15%);
+$grv-link:       $grv-blue;
+$grv-link-visited: $grv-purple;
+$grv-mark-line-bgcolor: #ffe8a0;
+
+@if $grv-is-dark {
+  $grv-bg:         $grv-dark0;
+  $grv-bg-soft:    $grv-dark0-soft;
+  $grv-bg-1:       $grv-dark1;
+  $grv-bg-2:       $grv-dark2;
+  $grv-fg:         $grv-light1;
+  $grv-fg-1:       $grv-light2;
+  $grv-fg-dim:     $grv-light4;
+  $grv-mix1:       $grv-dark-mix1;
+  $grv-mix2:       $grv-dark-mix2;
+  $grv-mix3:       $grv-dark-mix3;
+  $grv-mix4:       $grv-dark-mix4;
+  $grv-fg-dimmed:  lighten($grv-dark4, 16%);
+  $grv-link:       $grv-bright-blue;
+  $grv-link-visited: $grv-bright-purple;
+  $grv-mark-line-bgcolor: #3c3218;
+}
+
+@if $grv-is-auto {
+  :root {
+    --gruvbox-bg:              #{$grv-light0};
+    --gruvbox-bg-soft:         #{$grv-light0-soft};
+    --gruvbox-bg-1:            #{$grv-light1};
+    --gruvbox-bg-2:            #{$grv-light2};
+    --gruvbox-fg:              #{$grv-dark0};
+    --gruvbox-fg-1:            #{$grv-dark1};
+    --gruvbox-fg-dim:          #{$grv-dark4};
+    --gruvbox-mix1:            #{$grv-light-mix1};
+    --gruvbox-mix2:            #{$grv-light-mix2};
+    --gruvbox-mix3:            #{$grv-light-mix3};
+    --gruvbox-mix4:            #{$grv-light-mix4};
+    --gruvbox-fg-dimmed:       #{darken($grv-light4, 15%)};
+    --gruvbox-link:            #{$grv-blue};
+    --gruvbox-link-visited:    #{$grv-purple};
+    --gruvbox-mark-line-bg:    #ffe8a0;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --gruvbox-bg:            #{$grv-dark0};
+      --gruvbox-bg-soft:       #{$grv-dark0-soft};
+      --gruvbox-bg-1:          #{$grv-dark1};
+      --gruvbox-bg-2:          #{$grv-dark2};
+      --gruvbox-fg:            #{$grv-light1};
+      --gruvbox-fg-1:          #{$grv-light2};
+      --gruvbox-fg-dim:        #{$grv-light4};
+      --gruvbox-mix1:          #{$grv-dark-mix1};
+      --gruvbox-mix2:          #{$grv-dark-mix2};
+      --gruvbox-mix3:          #{$grv-dark-mix3};
+      --gruvbox-mix4:          #{$grv-dark-mix4};
+      --gruvbox-fg-dimmed:     #{lighten($grv-dark4, 16%)};
+      --gruvbox-link:          #{$grv-bright-blue};
+      --gruvbox-link-visited:  #{$grv-bright-purple};
+      --gruvbox-mark-line-bg:  #3c3218;
+    }
+  }
+
+  $grv-bg:              var(--gruvbox-bg);
+  $grv-bg-soft:         var(--gruvbox-bg-soft);
+  $grv-bg-1:            var(--gruvbox-bg-1);
+  $grv-bg-2:            var(--gruvbox-bg-2);
+  $grv-fg:              var(--gruvbox-fg);
+  $grv-fg-1:            var(--gruvbox-fg-1);
+  $grv-fg-dim:          var(--gruvbox-fg-dim);
+  $grv-mix1:            var(--gruvbox-mix1);
+  $grv-mix2:            var(--gruvbox-mix2);
+  $grv-mix3:            var(--gruvbox-mix3);
+  $grv-mix4:            var(--gruvbox-mix4);
+  $grv-fg-dimmed:       var(--gruvbox-fg-dimmed);
+  $grv-link:            var(--gruvbox-link);
+  $grv-link-visited:    var(--gruvbox-link-visited);
+  $grv-mark-line-bgcolor: var(--gruvbox-mark-line-bg);
+}
+
+
+// Minima color variables
+// ----------------------
+$brand-color:           $grv-fg-dim        !default;
+$brand-color-light:     $grv-mix4          !default;
+$brand-color-dimmed:    $grv-fg-dimmed     !default;
+$brand-color-dark:      $grv-fg            !default;
+
+$site-title-color:      $grv-fg            !default;
+$heading-color:         $grv-fg-1          !default;
+$text-color:            $grv-fg            !default;
+$background-color:      $grv-bg            !default;
+$code-background-color: $grv-mix3          !default;
+
+$link-base-color:       $grv-link          !default;
+$link-visited-color:    $grv-link-visited  !default;
+$link-hover-color:      $grv-fg            !default;
+
+$border-color-01:       $grv-mix4          !default;
+$border-color-02:       $grv-fg-dim        !default;
+$border-color-03:       $grv-fg            !default;
+
+$table-text-color:      $grv-fg            !default;
+$table-zebra-color:     $grv-mix3          !default;
+$table-header-bg-color: $grv-bg-2          !default;
+$table-header-border:   $grv-mix1          !default;
+$table-border-color:    $grv-mix1          !default;
+
+
+// Syntax highlighting styles
+// --------------------------
+// Accent colors used here are constant (don't shift light/dark) since
+// Rouge generates its own highlight CSS separately. These token colors
+// follow gruvbox conventions regardless of skin variant.
+
+.highlight {
+  .err { color: $grv-light0; background-color: $grv-red }  // Error
+  .c   { color: $grv-gray }                                 // Comment
+  .c1  { color: $grv-gray }                                 // Comment.Single
+  .cm  { color: $grv-gray }                                 // Comment.Multiline
+  .cp  { color: $grv-gray }                                 // Comment.Preproc
+  .cs  { color: $grv-gray; font-style: italic }             // Comment.Special
+  .gd  { color: $grv-red }                                  // Generic.Deleted
+  .gd .x { color: $grv-red }                               // Generic.Deleted.Specific
+  .ge  { color: $grv-fg; font-style: italic }               // Generic.Emph
+  .gh  { color: $grv-gray }                                 // Generic.Heading
+  .gi  { color: $grv-green }                                // Generic.Inserted
+  .gi .x { color: $grv-green }                             // Generic.Inserted.Specific
+  .go  { color: $grv-fg }                                   // Generic.Output
+  .gp  { color: $grv-fg }                                   // Generic.Prompt
+  .gr  { color: $grv-red }                                  // Generic.Error
+  .gs  { color: $grv-fg-1; font-weight: bold }              // Generic.Strong
+  .gt  { color: $grv-red }                                  // Generic.Traceback
+  .gu  { color: $grv-gray }                                 // Generic.Subheading
+  .k   { color: $grv-red }                                  // Keyword
+  .kc  { color: $grv-red }                                  // Keyword.Constant
+  .kd  { color: $grv-red }                                  // Keyword.Declaration
+  .kp  { color: $grv-red }                                  // Keyword.Pseudo
+  .kr  { color: $grv-red }                                  // Keyword.Reserved
+  .kt  { color: $grv-yellow }                               // Keyword.Type
+  .na  { color: $grv-aqua }                                 // Name.Attribute
+  .nb  { color: $grv-orange }                               // Name.Builtin
+  .bp  { color: $grv-blue }                                 // Name.Builtin.Pseudo
+  .nc  { color: $grv-yellow }                               // Name.Class
+  .ne  { color: $grv-yellow }                               // Name.Exception
+  .nf  { color: $grv-green }                                // Name.Function
+  .ni  { color: $grv-yellow }                               // Name.Entity
+  .nn  { color: $grv-yellow }                               // Name.Namespace
+  .no  { color: $grv-purple }                               // Name.Constant
+  .nt  { color: $grv-aqua }                                 // Name.Tag
+  .nv  { color: $grv-blue }                                 // Name.Variable
+  .vc  { color: $grv-blue }                                 // Name.Variable.Class
+  .vg  { color: $grv-blue }                                 // Name.Variable.Global
+  .vi  { color: $grv-blue }                                 // Name.Variable.Instance
+  .o   { color: $grv-aqua }                                 // Operator
+  .ow  { color: $grv-aqua }                                 // Operator.Word
+  .m   { color: $grv-purple }                               // Literal.Number
+  .mf  { color: $grv-purple }                               // Literal.Number.Float
+  .mh  { color: $grv-purple }                               // Literal.Number.Hex
+  .mi  { color: $grv-purple }                               // Literal.Number.Integer
+  .il  { color: $grv-purple }                               // Literal.Number.Integer.Long
+  .mo  { color: $grv-purple }                               // Literal.Number.Oct
+  .s   { color: $grv-green }                                // Literal.String
+  .s1  { color: $grv-green }                                // Literal.String.Single
+  .s2  { color: $grv-green }                                // Literal.String.Double
+  .sb  { color: $grv-green }                                // Literal.String.Backtick
+  .sc  { color: $grv-green }                                // Literal.String.Char
+  .sd  { color: $grv-green }                                // Literal.String.Doc
+  .se  { color: $grv-orange }                               // Literal.String.Escape
+  .sh  { color: $grv-green }                                // Literal.String.Heredoc
+  .si  { color: $grv-bright-orange }                        // Literal.String.Interpol
+  .sr  { color: $grv-aqua }                                 // Literal.String.Regex
+  .ss  { color: $grv-green }                                // Literal.String.Symbol
+  .sx  { color: $grv-green }                                // Literal.String.Other
+  .w   { color: $grv-fg-dim }                               // Text.Whitespace
+  .lineno, .gl { color: $grv-gray }                         // Line Number
+  .hll { background-color: $grv-mark-line-bgcolor }         // Marked lines
+}
